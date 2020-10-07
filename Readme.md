@@ -19,7 +19,7 @@ Project: hello world in visual studio.
 
 Project: Console Calculator
 
-### Lesson 3:
+### Lesson 3
 
 1. Continued on c# syntax, introduced nuget packages library.
 ScrapySharp and mapper
@@ -28,26 +28,33 @@ Week project: Job advertisement scraper.
 
 ## Week 2
 
-### Lesson1
+### W2 Lesson 1
+
 1. Mvc + Razor syntax. Models, controller folder structure
-Project: Sign-up form with razor and display. 
+Project: Sign-up form with razor and display.
 Bonus points: add-validation
 
-Lesson2:
-1. System Api: Rest/restfull system. 
+### W2 Lesson 2
+
+1. System Api: Rest/restfull system.
 HttpGet, HttpPost, HttpDelete, Using Postman
 
-Lesson3:
-Week project: 
+### W3 Lesson 3
+
+Week project:
 Shop Api.
 Extra mile: Swagger
 
-Week3 Databases:
-Lesson 1.
+## Week 3 Databases
+
+### W3 Week 1
+
 Database basics: Tables, Selects, Inserts, Indexes
 Entity Framework core vs SqlConnection
 
 Project: Connect your api with DB. update existing application with insert/retrieve.
+
+### W3 Week 2
 
 Lesson 2: Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
