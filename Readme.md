@@ -39,7 +39,7 @@ Bonus points: add-validation
 1. System Api: Rest/restfull system.
 HttpGet, HttpPost, HttpDelete, Using Postman
 
-### W3 Lesson 3
+### W2 Lesson 3
 
 Week project:
 Shop Api.
@@ -47,14 +47,34 @@ Extra mile: Swagger
 
 ## Week 3 Databases
 
-### W3 Week 1
+### W3 Lesson 1
 
 Database basics: Tables, Selects, Inserts, Indexes
 Entity Framework core vs SqlConnection
 
 Project: Connect your api with DB. update existing application with insert/retrieve.
 
-### W3 Week 2
+### W3 Lesson 2
 
-Lesson 2: Design patterns and dependency injection.
+Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
+
+### W3 Lesson 3
+Lesson 2 continued.
+More advances queries in db.
+
+## Week 4 Connecting front-end with .net core
+
+Project: full working application.
+
+## Week 5 Automated testing, test driven development, code refactoring
+
+Project code-refactoring kata
+
+## Week 6 Pipelines, Azure devops
+
+## Week 7 Team working, development methodologies, sprints
+
+    Coding a major project in teams
+
+## 
