@@ -1,22 +1,23 @@
 
 # Teaching plan
 
-## Week 1
+## Week 1 Basics/Console projects
 
 ### Lesson 1
 
 #### Aim
 
-    1. Introduce myself, the course, get to know each one's background and explain the Lithuanian market for .net developers.
+    1. Introduce myself, the course, get to know each one's background and explain 
+    the Lithuanian market for .net developers.
     2. Explain the structure of the course
-    3. Install Visual studio, Get familiar with development environment, Create new project.
+    3. Install Visual studio, Get familiar with development environment, create new project.
     4. Get familiar with debugging technique.
 
 #### Homework/Project
 
-Main: hello world in visual studio.
-Extra: Enter your name/ surename in console and print out full sentence.
-Extra: Enter your date of birth and produce age.
+    Main: hello world in visual studio.
+    Extra: Enter your name/ surename in console and print out full sentence.
+    Extra: Enter your date of birth and produce age.
 
 ### Lesson 2
 
@@ -43,7 +44,7 @@ Extra: Upload it to github.
 
  Job advertisement scraper.
 
-## Week 2
+## Week 2 MVC + Razor / Api technologies
 
 ### Lesson 1
 
@@ -82,21 +83,45 @@ Extra: Upload it to github.
 
 #### Project
 
-    Main: 'Maxima' Warehouse Restfull Api system for 3 items: bread, milk and cake.
+    Main: 'Minima' shop Warehouse Restfull Api system for 3 items: bread, milk and cake.
     Extra: 3 items should reuse the same code, generic controllers, repository.
     Extra: Add Swagger to Api
 
-## Week 3 Databases
+### Lesson 3
 
-### W3 Lesson 1
+#### Aim
 
-Database basics: Tables, Selects, Inserts, Indexes
-Entity Framework core vs SqlConnection
+    1. Create database on you local machine, setup mssql
+    2. Create schemas/tables/data
+    3. Selecting data
+    4. SqlConnecion with .net core
 
-Project: Connect your api with DB. update existing application with insert/retrieve.
+#### Project
 
-### W3 Lesson 2
+   Main: Introduce Customer object in 'Minima' application
+   Upgrade existing application to be able to filter by customer.
+   Extra: Upgrade the database with millions of records and observe the performance.
 
+### Lesson 2
+
+#### Aim
+
+    1. Entity Framework Core introduced, its benefits over plain sql.
+    2. Get familiar with DbSets, Linq
+
+#### Project
+
+    1. Upgrade 'Minima' to use EF core and LinQ instead of SqlConnection
+
+### Lesson 3
+
+#### Aim
+
+    1. Introduce Foreign keys, Indexes.
+    2. Learn Stored procedures, functions 
+    3. Joins, Group bys
+    4. The issues with big data and efficiency.
+    
 Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
 
