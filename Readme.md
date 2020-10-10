@@ -35,9 +35,9 @@ Extra: Upload it to github.
 
 #### Aim
 
-1. Continue learning c# programming, inheritance.
-2. Introduce nuget packages library
-3. Introduce scraping via ScrapySharp nuget package
+    1. Continue learning c# programming, inheritance.
+    2. Introduce nuget packages library
+    3. Introduce scraping via ScrapySharp nuget package
 
 #### Homework/Project
 
