@@ -160,19 +160,53 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     1. Intro to asyncronous programming: Async/Await
     2. Extension methods, Helper classes. When to use static classes
-    3. Further techniques on reusability.
+    3. Shared project/ common packages patterns
 
 #### Project
 
     Employ the principles above to the current project.
 
+## Week 5 Automated testing, test driven development
+
+### Lesson 1
+
+#### Aim
+
+    1. Introducing Test-driven development
+    2. Understanding Unit tests
+    3. XUnit testing framework, Facts/Theories
+    4. Architecture for testing frameworks
+
+#### Project
+
+   1. Adding unit tests for existing projects
+
+### Lesson 2
+
+#### Aim
+
+    1. Integration testing
+    2. Mocking services with Moq.
+    3. Replacing Database with InMemory Database for testing
+
+#### Project
+
+    Adding Intgeration tests to current projects.
+
+### Lesson 3
+
+#### Aim
+    1. This is a revision session with those who needs more help.
+    2. The experiences ones will work on Gilded Rose refactoring kata
+
+#### Project
+
+    GildedRose refactoring Kata
+    https://github.com/emilybache/GildedRose-Refactoring-Kata
+
 ## Week 4 Front-end frameworks with .net core
 
 Project: full working application.
-
-## Week 5 Automated testing, test driven development, code refactoring
-
-Project code-refactoring kata
 
 ## Week 6 Pipelines, Azure devops
 
