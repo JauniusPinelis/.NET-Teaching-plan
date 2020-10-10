@@ -4,26 +4,44 @@
 ## Week 1
 
 ### Lesson 1
-1. Introduction to .net ecosystem, c#, the market and the aim of the course.
-2. Installing and configuring development environment.
-3. Creating new project and .net project templates.
-4. Introducing weeks pproject
-5. Refreshing git and github.
 
-Project: hello world in visual studio.
+#### Aim
 
-## Lesson 2
+    1. Introduce myself, the course, get to know each one's background and explain the Lithuanian market for .net developers.
+    2. Explain the structure of the course
+    3. Install Visual studio, Get familiar with development environment, Create new project.
+    4. Get familiar with debugging technique.
 
-1. intro to c# syntax, object oriented programming, types, loops
+#### Homework/Project
 
-Project: Console Calculator
+Main: hello world in visual studio.
+Extra: Enter your name/ surename in console and print out full sentence.
+Extra: Enter your date of birth and produce age.
+
+### Lesson 2
+
+#### Aim
+
+    1. Get Familiar with Object programming
+    2. Get familiar with basic programming concepts in .net: arrays, loops, 
+    if statements, lists and etc
+
+#### Homework/Project
+
+Main: Console Calculator
+Extra: Upload it to github.
 
 ### Lesson 3
 
-1. Continued on c# syntax, introduced nuget packages library.
-ScrapySharp and mapper
+#### Aim
 
-Week project: Job advertisement scraper.
+1. Continue learning c# programming, inheritance.
+2. Introduce nuget packages library
+3. Introduce scraping via ScrapySharp nuget package
+
+#### Homework/Project
+
+ Job advertisement scraper.
 
 ## Week 2
 
