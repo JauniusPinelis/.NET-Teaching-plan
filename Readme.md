@@ -4,7 +4,6 @@
 ## Week 1
 
 ### Lesson 1
-
 1. Introduction to .net ecosystem, c#, the market and the aim of the course.
 2. Installing and configuring development environment.
 3. Creating new project and .net project templates.
@@ -76,5 +75,10 @@ Project code-refactoring kata
 ## Week 7 Team working, development methodologies, sprints
 
     Coding a major project in teams
+    Creating a Bank with the fullowing functionalities:
 
-## 
+## Week 8 .NET Authenticatio, Authorization, Input Validation, Security
+
+## Week 9 .NET desktop apps
+
+## Week 10 What to expect in interviews, Preparing for interviews, expanding portfolio
