@@ -100,7 +100,7 @@ Extra: Upload it to github.
 
    Main: Introduce Customer object in 'Minima' application
    Upgrade existing application to be able to filter by customer.
-   Extra: Upgrade the database with millions of records and observe the performance.
+   Extra: Upgrade the database with millions of records and observe the performance. 
 
 ### Lesson 2
 
@@ -111,7 +111,8 @@ Extra: Upload it to github.
 
 #### Project
 
-    1. Upgrade 'Minima' to use EF core and LinQ instead of SqlConnection
+    Upgrade 'Minima' to use EF core and LinQ instead of SqlConnection
+    Extra: Research IEnumerable vs iqueryable and apply proper usage.
 
 ### Lesson 3
 
@@ -121,15 +122,51 @@ Extra: Upload it to github.
     2. Learn Stored procedures, functions 
     3. Joins, Group bys
     4. The issues with big data and efficiency.
-    
+
 Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
 
-### W3 Lesson 3
-Lesson 2 continued.
-More advances queries in db.
+## Week 4 Code-reusability Architecture and design patterns
 
-## Week 4 Connecting front-end with .net core
+### Lesson 1
+
+#### Aim
+
+    1. Understand Domain Driven design and apply its architecture
+    2. Introduction to interface and its power through Dependency injection
+    3. Repository and Service coding patterns
+
+#### Project
+
+    Upgrade existing 'Minima' project to employ Customer and Product service, 
+    inject them as services.
+    Refactor database accesss to use Repositories (Generic repositories + Unit of work)
+
+### Lesson 2
+
+#### Aim
+
+    1. Dividing models into Entities and Data Transfer Objects.
+    2. Configure and employ automapper.
+    3. EXception handling
+
+#### Project
+
+    Employ the principles above to the current project.
+
+### Lesson 3
+
+#### Aim
+
+    1. Intro to asyncronous programming: Async/Await
+    2. Extension methods, Helper classes. When to use static classes
+    3. Further techniques on reusability.
+
+#### Project
+
+    Employ the principles above to the current project.
+
+## Week 4 Front-end frameworks with .net core
 
 Project: full working application.
 
