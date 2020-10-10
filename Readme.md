@@ -45,22 +45,46 @@ Extra: Upload it to github.
 
 ## Week 2
 
-### W2 Lesson 1
+### Lesson 1
 
-1. Mvc + Razor syntax. Models, controller folder structure
-Project: Sign-up form with razor and display.
-Bonus points: add-validation
+#### Aim
 
-### W2 Lesson 2
+    1. MVC + Razor introduced
+    2. Project folder structure explained
+    3. Sending data to controllers
+    4. Routing in mvc
 
-1. System Api: Rest/restfull system.
-HttpGet, HttpPost, HttpDelete, Using Postman
+#### Project
 
-### W2 Lesson 3
+    Main : Registration form application
+    Extra: Back-end validation and attributes
 
-Week project:
-Shop Api.
-Extra mile: Swagger
+### Lesson 2
+
+#### Aim
+
+    1. Introduce limitation of razors and why Javascript is needed
+    2. Enriching Razor with Javascript
+    3. Introduce Ajax/Jquery in razor applications.
+
+#### Project
+
+    Registration form upgrade -> make it Single page Application
+
+### Lesson 3
+
+#### Aim
+
+    1. Introduce WebApi  (vs MVC)
+    2. Understand Rest Api
+    3. Sending parameters (FromBody vs FromUrl)
+    4. Test it via HttpGet, HttpPost, HttpDelete, Using Postman
+
+#### Project
+
+    Main: 'Maxima' Warehouse Restfull Api system for 3 items: bread, milk and cake.
+    Extra: 3 items should reuse the same code, generic controllers, repository.
+    Extra: Add Swagger to Api
 
 ## Week 3 Databases
 
