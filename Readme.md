@@ -7,7 +7,7 @@
 
 #### Aim
 
-    1. Introduce myself, the course, get to know each one's background and explain 
+    1. Introduce myself, the course, get to know each one's background and explain
     the Lithuanian market for .net developers.
     2. Explain the structure of the course
     3. Install Visual studio, Get familiar with development environment, create new project.
@@ -191,11 +191,12 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
 #### Project
 
-    Adding Intgeration tests to current projects.
+    Adding Integration tests to current projects.
 
 ### Lesson 3
 
 #### Aim
+
     1. This is a revision session with those who needs more help.
     2. The experiences ones will work on Gilded Rose refactoring kata
 
@@ -204,16 +205,46 @@ Implementing dependency injection, Applying Service/ Repository patterns.
     GildedRose refactoring Kata
     https://github.com/emilybache/GildedRose-Refactoring-Kata
 
+## Week 6 Working in a team, team project
+
+### Lesson 1
+
+#### Aim
+
+    1. Understand Git, branching, merge-request, conflicts.
+    2. Scrum/sprints methodologies.
+    3. Divide into teams and work together as in real-life scenarios.
+
+#### Project
+
+    Major project: a bank application. Be creative.
+    Suggestions: be able to register and login (ignore security for now),
+    Top up with single click. Be able to to send money to other account.
+    Extra ideas: investing, be able to request money. Be creative!
+
+#### Lesson 2-3
+
+    Bank Project continued.
+
+## Week 7 Front-end/SPA
+
+### Lesson 1
+
+#### Aim
+
+    1. Introduce to SPA js frameworks.
+    2. Introduce Angular CLI + Typescript
+    3. HttpClient in Angular.
+
+#### Project
+
+    Create a basic angular client to consume .net core Api.
+
 ## Week 4 Front-end frameworks with .net core
 
 Project: full working application.
 
 ## Week 6 Pipelines, Azure devops
-
-## Week 7 Team working, development methodologies, sprints
-
-    Coding a major project in teams
-    Creating a Bank with the fullowing functionalities:
 
 ## Week 8 .NET Authenticatio, Authorization, Input Validation, Security
 
