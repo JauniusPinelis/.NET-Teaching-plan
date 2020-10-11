@@ -299,6 +299,13 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     To be added
 
-#### Week 9 Working with legacy code
+#### Week 9 Working with legacy and complex code, .NET framework
 
 ### Aim
+
+    1. Learn to analyse complex production code written by others.
+
+### Project
+
+    Pick a project from .net solution open source (github)
+    and present its code. What architecture, pattern it uses?
