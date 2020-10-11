@@ -240,11 +240,48 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Create a basic angular client to consume .net core Api.
 
+### Lesson 2
+
+#### Aim
+
+    1. Further dive into Angular, Typescript
+    2. Components, Services
+    3. Angular HttpGet, HttpPost, Delete requests
+
+#### Project
+
+    Moving existing functionality into Angular client.
+
+### Lesson 3
+
+#### Aim
+
+    1. Further dive into Angular, Typescript
+    2. Revision on previous modules
+
+#### Project
+
+    Full Angular spa intergation with .net core
+
+## Week 8 Pipelines, Azure devops, Hosting
+
+### Lesson 1
+
+#### Aim 
+    
+    1. What is a pipeline.
+    2. CI/CD
+    3. Introduction to azure.
+
+### Project
+
+    Setuping first pipeline in github which checks build and runs tests.
+
+
+
 ## Week 4 Front-end frameworks with .net core
 
 Project: full working application.
-
-## Week 6 Pipelines, Azure devops
 
 ## Week 8 .NET Authenticatio, Authorization, Input Validation, Security
 
