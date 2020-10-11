@@ -267,24 +267,38 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
 ### Lesson 1
 
-#### Aim 
-    
+#### Aim
+
     1. What is a pipeline.
     2. CI/CD
     3. Introduction to azure.
 
 ### Project
 
-    Setuping first pipeline in github which checks build and runs tests.
+    Setuping first pipeline in github which checks builds and runs tests.
 
+### Lesson 2
 
+#### Aim
 
-## Week 4 Front-end frameworks with .net core
+    1. Free hosting solutions
+    2. Azure hosting
+    3. Database hosting
 
-Project: full working application.
+#### Project
 
-## Week 8 .NET Authenticatio, Authorization, Input Validation, Security
+    Host a .NET project publicly
 
-## Week 9 .NET desktop apps
+### Lesson 3
 
-## Week 10 What to expect in interviews, Preparing for interviews, expanding portfolio
+#### Aim
+
+    1. Azure advanced: artifacts, blob storage, pricing, databases
+
+### Project
+
+    To be added
+
+#### Week 9 Working with legacy code
+
+### Aim
