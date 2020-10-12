@@ -323,6 +323,8 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
 #### Project
 
+    An example interview coding task
+
 ### Lesson 3
 
 #### Aim
