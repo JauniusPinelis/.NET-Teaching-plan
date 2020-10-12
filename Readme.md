@@ -87,7 +87,9 @@ Extra: Upload it to github.
     Extra: 3 items should reuse the same code, generic controllers, repository.
     Extra: Add Swagger to Api
 
-### Lesson 3
+## Week 3 Databases
+
+### Lesson 1
 
 #### Aim
 
@@ -330,3 +332,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
     3. OData web api
 
 #### Project
+
+    Setup Odata Api on .net framework.
+
+
