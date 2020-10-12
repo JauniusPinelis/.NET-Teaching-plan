@@ -100,9 +100,9 @@ Extra: Upload it to github.
 
 #### Project
 
-   Main: Introduce Customer object in 'Minima' application
-   Upgrade existing application to be able to filter by customer.
-   Extra: Upgrade the database with millions of records and observe the performance. 
+    Main: Introduce Customer object in 'Minima' application
+    Upgrade existing application to be able to filter by customer.
+    Extra: Upgrade the database with millions of records and observe the performance. 
 
 ### Lesson 2
 
