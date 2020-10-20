@@ -41,31 +41,31 @@ Extra: Įkėlimas į Github.
 
 #### Homework/Project
 
- Darbo skelbimo informacijos anal.
+ Darbo skelbimo informacijos automatinė analizė (Web scraper)
 
-## Week 2 MVC + Razor / Api technologies
+## Week 2 MVC + Razor / Api technologijos
 
 ### Lesson 1
 
 #### Aim
 
-    1. MVC + Razor introduced
-    2. Project folder structure explained
-    3. Sending data to controllers
-    4. Routing in mvc
+    1. MVC + Razor technologijos
+    2. Projektų folderių/failu struktura
+    3. duomenų siuntimas/gavimas iš kontrolerių.
+    4. Web linkų maršrutizavimas projekte (routing)
 
 #### Project
 
-    Main : Registration form application
-    Extra: Back-end validation and attributes
+    Main : Registracijos formos applikacija.
+    Extra: Siunčiamų reikšmių tikrinimas (Input validation)
 
 ### Lesson 2
 
 #### Aim
 
-    1. Introduce limitation of razors and why Javascript is needed
-    2. Enriching Razor with Javascript
-    3. Introduce Ajax/Jquery in razor applications.
+    1. Razor problemos ir kam reikalingas Javascriptas
+    2. Javascripto naudojimas Razor applikacijose
+    3. Ajax/Jquery bibliotekos mūsų aplikacijose
 
 #### Project
 
