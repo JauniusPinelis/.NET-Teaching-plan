@@ -1,307 +1,319 @@
 
 # Teaching plan
 
-## Week 1 Basics/Console projects
+## Week 1: Basics, Console projects
 
 ### Lesson 1
 
 #### Aim
 
-    1. Introduce myself, the course, get to know each one's background and explain
-    the Lithuanian market for .net developers.
-    2. Explain the structure of the course
-    3. Install Visual studio, Get familiar with development environment, create new project.
+    1. Introduce myself, the course, get to know each other, our backgrounds and experiences, explain
+    the Lithuanian market for .NET developers.
+    2. Explain the structure of the course.
+    3. Install Visual Studio 2019, get familiar with the development environment, create a new project.
     4. Get familiar with debugging technique.
 
 #### Homework/Project
 
-    Main: hello world in visual studio.
-    Extra: Enter your name/ surename in console and print out full sentence.
+    Main: Hello World in Visual Studio.
+    Extra: Enter your name or surname in Console window and print out a full sentence.
     Extra: Enter your date of birth and produce age.
 
 ### Lesson 2
 
 #### Aim
 
-    1. Get Familiar with Object programming
-    2. Get familiar with basic programming concepts in .net: arrays, loops, 
-    if statements, lists and etc
+    1. Get familiar with Object-oriented programming (OOP).
+    2. Get familiar with basic programming concepts in .NET: arrays, lists, loops, if statements, operators and etc.
 
 #### Homework/Project
 
-Main: Console Calculator
-Extra: Upload it to github.
+    Main: Console Calculator.
+    Extra: Upload it to GitHub.
 
 ### Lesson 3
 
 #### Aim
 
-    1. Continue learning c# programming, inheritance.
-    2. Introduce nuget packages library
-    3. Introduce scraping via ScrapySharp nuget package
+    1. Continue learning C# programming, inheritance, encapsulation, abstraction and etc.
+    2. Introduce NuGet packages library.
+    3. Introduce web scraping via ScrapySharp NuGet package.
 
 #### Homework/Project
 
- Job advertisement scraper.
+    Main: Job advertisement scraper.
+    Extra:
 
-## Week 2 MVC + Razor / Api technologies
+## Week 2: MVC + Razor, API technologies.
 
 ### Lesson 1
 
 #### Aim
 
-    1. MVC + Razor introduced
-    2. Project folder structure explained
-    3. Sending data to controllers
-    4. Routing in mvc
+    1. Introduce MVC design pattern and Razor.
+    2. Explain Project folder structure.
+    3. Introduce sending data to the controllers.
+    4. Explain Routing concept in MVC.
 
-#### Project
+#### Homework/Project
 
-    Main : Registration form application
-    Extra: Back-end validation and attributes
+    Main: Registration form application.
+    Extra: Back-end validation and attributes.
 
 ### Lesson 2
 
 #### Aim
 
-    1. Introduce limitation of razors and why Javascript is needed
-    2. Enriching Razor with Javascript
-    3. Introduce Ajax/Jquery in razor applications.
+    1. Introduce Razor engine limitations and explain why JavaScript is needed.
+    2. Enriching Razor with JavaScript.
+    3. Introduce AJAX/jQuery in Razor applications.
 
-#### Project
+#### Homework/Project
 
-    Registration form upgrade -> make it Single page Application
+    Main: Registration form upgrade. Make it a Single-page application (SPA).
+    Extra:
 
 ### Lesson 3
 
 #### Aim
 
-    1. Introduce WebApi  (vs MVC)
-    2. Understand Rest Api
-    3. Sending parameters (FromBody vs FromUrl)
-    4. Test it via HttpGet, HttpPost, HttpDelete, Using Postman
+    1. Introduce WebAPI and differences from MVC.
+    2. Explain REST API software architecture.
+    3. Sending parameters (FromBody vs FromUrl).
+    4. Test it via HttpGet, HttpPost, HttpDelete, using Postman.
 
-#### Project
+#### Homework/Project
 
-    Main: 'Minima' shop Warehouse Restfull Api system for 3 items: bread, milk and cake.
+    Main: 'Minima' shop Warehouse RESTful API system for three items: bread, milk and cake.
     Extra: 3 items should reuse the same code, generic controllers, repository.
-    Extra: Add Swagger to Api
+    Extra: Add Swagger to API.
 
-## Week 3 Databases
+## Week 3: Databases
 
 ### Lesson 1
 
 #### Aim
 
-    1. Create database on you local machine, setup mssql
-    2. Create schemas/tables/data
-    3. Selecting data
-    4. SqlConnecion with .net core
+    1. Create a database on your local machine, setup MS SQL.
+    2. Create schemas, tables, test data.
+    3. SQL statements: SELECT, UPDATE, INSERT, DELETE. 
+    4. SqlConnecion with .NET Core.
 
-#### Project
+#### Homework/Project
 
-    Main: Introduce Customer object in 'Minima' application
-    Upgrade existing application to be able to filter by customer.
+    Main: Introduce customer object in 'Minima' application.
+    Upgrade existing application to be able to filter by the customer.
     Extra: Upgrade the database with millions of records and observe the performance. 
 
 ### Lesson 2
 
 #### Aim
 
-    1. Entity Framework Core introduced, its benefits over plain sql.
-    2. Get familiar with DbSets, Linq
+    1. Introduce Entity Framework Core, its benefits over plain SQL.
+    2. Get familiar with DbSets, Linq.
 
-#### Project
+#### Homework/Project
 
-    Upgrade 'Minima' to use EF core and LinQ instead of SqlConnection
-    Extra: Research IEnumerable vs iqueryable and apply proper usage.
-
-### Lesson 3
-
-#### Aim
-
-    1. Introduce Foreign keys, Indexes.
-    2. Learn Stored procedures, functions 
-    3. Joins, Group bys
-    4. The issues with big data and efficiency.
-
-Design patterns and dependency injection.
-Implementing dependency injection, Applying Service/ Repository patterns.
-
-## Week 4 Code-reusability Architecture and design patterns
-
-### Lesson 1
-
-#### Aim
-
-    1. Understand Domain Driven design and apply its architecture
-    2. Introduction to interface and its power through Dependency injection
-    3. Repository and Service coding patterns
-
-#### Project
-
-    Upgrade existing 'Minima' project to employ Customer and Product service, 
-    inject them as services.
-    Refactor database accesss to use Repositories (Generic repositories + Unit of work)
-
-### Lesson 2
-
-#### Aim
-
-    1. Dividing models into Entities and Data Transfer Objects.
-    2. Configure and employ automapper.
-    3. EXception handling
-
-#### Project
-
-    Employ the principles above to the current project.
+    Main: Upgrade 'Minima' to use EF Core and Linq instead of SqlConnection.
+    Extra: Research IEnumerable vs IQueryable and apply proper usage.
 
 ### Lesson 3
 
 #### Aim
 
-    1. Intro to asyncronous programming: Async/Await
-    2. Extension methods, Helper classes. When to use static classes
-    3. Shared project/ common packages patterns
+    1. Introduce Foreign Keys, Indexes.
+    2. Explain Stored procedures, functions.
+    3. Explain SQL clauses: Joins, Group By, Aliases.
+    4. The issues with Big Data and efficiency.
 
-#### Project
+#### Homework/Project
 
-    Employ the principles above to the current project.
+    Main: Design patterns and Dependency Injection (DI).
+    Implementing Dependency Injection, applying Service, Repository patterns.
+    Extra:
 
-## Week 5 Automated testing, test driven development
+## Week 4: Code-reusability, Architecture and Design patterns
 
 ### Lesson 1
 
 #### Aim
 
-    1. Introducing Test-driven development
-    2. Understanding Unit tests
-    3. XUnit testing framework, Facts/Theories
-    4. Architecture for testing frameworks
+    1. Understand Domain Driven design (DDD) and apply it's architecture.
+    2. Introduce an interface and its power through Dependency Injection (DI).
+    3. Repository and Service coding patterns.
 
-#### Project
+#### Homework/Project
 
-   1. Adding unit tests for existing projects
+    Main: Upgrade existing 'Minima' project to employ Customer and Product service, inject them as services.
+    Refactor database access to use Repositories (Generic repositories + Unit of work).
+    Extra:
 
 ### Lesson 2
 
 #### Aim
 
-    1. Integration testing
+    1. Dividing models into Entities and Data Transfer Objects (DTOs).
+    2. Configure and employ AutoMapper.
+    3. Exception handling.
+
+#### Homework/Project
+
+    Main: Employ the principles above to the current project.
+    Extra:
+
+### Lesson 3
+
+#### Aim
+
+    1. Introduction to Asynchronous Programming: Async/Await.
+    2. Extension methods, Helper classes. When to use static classes.
+    3. Shared project, common packages patterns.
+
+#### Homework/Project
+
+    Main: Employ the principles above to the current project.
+    Extra:
+
+## Week 5: Automated testing, Test-driven development (TDD)
+
+### Lesson 1
+
+#### Aim
+
+    1. Introduction to Test-driven development (TDD).
+    2. Understanding Unit tests.
+    3. XUnit testing framework, Facts/Theories.
+    4. Architecture for testing frameworks.
+
+#### Homework/Project
+
+    Main: Adding unit tests for existing projects.
+    Extra:
+
+### Lesson 2
+
+#### Aim
+
+    1. Integration testing.
     2. Mocking services with Moq.
-    3. Replacing Database with InMemory Database for testing
+    3. Replacing Database with InMemory Database for testing.
 
-#### Project
+#### Homework/Project
 
-    Adding Integration tests to current projects.
+    Main: Adding Integration tests to current projects.
+    Extra:
 
 ### Lesson 3
 
 #### Aim
 
-    1. This is a revision session with those who needs more help.
-    2. The experiences ones will work on Gilded Rose refactoring kata
+    1. This is a revision session with those who need more help.
+    2. The experienced ones will work on Gilded Rose Refactoring Kata.
 
-#### Project
+#### Homework/Project
 
-    GildedRose refactoring Kata
+    Extra: GildedRose refactoring Kata
     https://github.com/emilybache/GildedRose-Refactoring-Kata
 
-## Week 6 Working in a team, team project
+## Week 6: Working in teams, team project.
 
 ### Lesson 1
 
 #### Aim
 
-    1. Understand Git, branching, merge-request, conflicts.
-    2. Scrum/sprints methodologies.
-    3. Divide into teams and work together as in real-life scenarios.
+    1. Understanding Git, branching, merge-request, conflicts.
+    2. Scrum, sprint methodologies.
+    3. Divide into teams and work together to simulate real-life scenarios.
 
-#### Project
+#### Homework/Project
 
-    Major project: a bank application. Be creative.
+    Major project: a Bank application. Be creative!
     Suggestions: be able to register and login (ignore security for now),
-    Top up with single click. Be able to to send money to other account.
+    Top up with the single click. Be able to send money to other account.
     Extra ideas: investing, be able to request money. Be creative!
 
 #### Lesson 2-3
 
-    Bank Project continued.
+    Continue working on the Bank Project.
 
-## Week 7 Front-end/SPA
+## Week 7: Front-end, SPA
 
 ### Lesson 1
 
 #### Aim
 
-    1. Introduce to SPA js frameworks.
-    2. Introduce Angular CLI + Typescript
+    1. Introduction to SPA JavaScript frameworks.
+    2. Introduction to Angular CLI + Typescript.
     3. HttpClient in Angular.
 
-#### Project
+#### Homework/Project
 
-    Create a basic angular client to consume .net core Api.
+    Main: Create a basic Angular client to consume .NET Core API.
+    Extra: 
 
 ### Lesson 2
 
 #### Aim
 
-    1. Further dive into Angular, Typescript
-    2. Components, Services
-    3. Angular HttpGet, HttpPost, Delete requests
+    1. Dive further into Angular, Typescript.
+    2. Components, Services.
+    3. Angular HttpGet, HttpPost, Delete requests.
 
-#### Project
+#### Homework/Project
 
-    Moving existing functionality into Angular client.
+    Main: Moving existing functionality into Angular client.
+    Extra:
 
 ### Lesson 3
 
 #### Aim
 
-    1. Further dive into Angular, Typescript
-    2. Revision on previous modules
+    1. Further dive into Angular, Typescript.
+    2. Revision on the previous modules.
 
-#### Project
+#### Homework/Project
 
-    Full Angular spa intergation with .net core
+    Main: Full Angular spa integration with .NET Core.
+    Extra:
 
-## Week 8 Pipelines, Azure devops, Hosting
+## Week 8: Pipelines, Azure DevOps, Hosting
 
 ### Lesson 1
 
 #### Aim
 
     1. What is a pipeline.
-    2. CI/CD
-    3. Introduction to azure.
+    2. CI/CD.
+    3. Introduction to Azure.
 
-### Project
+### Homework/Project
 
-    Setuping first pipeline in github which checks builds and runs tests.
+    Main: Setup a first pipeline in GitHub, which checks builds and runs tests.
+    Extra:
 
 ### Lesson 2
 
 #### Aim
 
-    1. Free hosting solutions
-    2. Azure hosting
-    3. Database hosting
+    1. Free hosting solutions.
+    2. Azure hosting.
+    3. Database hosting.
 
-#### Project
+#### Homework/Project
 
-    Host a .NET project publicly
+    Main: Host a .NET project publicly.
 
 ### Lesson 3
 
 #### Aim
 
-    1. Azure advanced: artifacts, blob storage, pricing, databases
+    1. Azure advanced: artifacts, blob storage, pricing, databases.
 
-### Project
+### Homework/Project
 
-    To be added
+    Main: To be added
 
-## Week 9 Working with legacy and complex code, .NET framework
+## Week 9: Working with legacy and complex code, .NET Framework
 
 ### Lesson 1
 
@@ -309,32 +321,34 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     1. Learn to analyse complex production code written by others.
 
-#### Project
+#### Homework/Project
 
-    Pick a project from .net solution open source (github)
+    Main: Pick a open source .NET project from GitHub.
     and present its code. What architecture, pattern it uses?
+    https://github.com/quozd/awesome-dotnet
+    Extra:
 
 ### Lesson 2
 
 #### Aim
 
-    1. Working with monoliths, spagetti code.
+    1. Working with monoliths, spaghetti code.
     2. Advanced refactoring.
 
-#### Project
+#### Homework/Project
 
-    An example interview coding task
+    Main: An example interview coding task.
+    Extra:
 
 ### Lesson 3
 
 #### Aim
 
-    1. .NET framework and other technologies still used in industry.
-    2. Project setup ith .net framework and OWin
-    3. OData web api
+    1. .NET Framework and other technologies that are still being used in the industry.
+    2. Project setup with .NET Framework and OWin.
+    3. OData Web API.
 
-#### Project
+#### Homework/Project
 
-    Setup Odata Api on .net framework.
-
-
+    Main: Setup Odata API on .NET Framework.
+    Extra:
