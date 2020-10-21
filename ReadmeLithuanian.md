@@ -212,30 +212,31 @@ Implementing dependency injection, Applying Service/ Repository patterns.
     GildedRose refactoring Kata
     https://github.com/emilybache/GildedRose-Refactoring-Kata
 
-## Savaitė  6 Working in a team, team project
+## Savaitė 6 Darbas komandoje
 
 ### Pamoka  1
 
 #### Tikslai
 
-    1. Understand Git, branching, merge-request, conflicts.
-    2. Scrum/sprints methodologies.
-    3. Divide into teams and work together as in real-life scenarios.
+    1. Darbas su Git versijavimo sistema.
+    2. Scrum/Sprints projektu valdymo metodologijos.
+    3. Pasiskirstymas komandomis ir darbas realaus pasaulio scenarijumi.
 
 #### Projektas
 
-    Major project: a bank application. Be creative.
-    Suggestions: be able to register and login (ignore security for now),
-    Top up with single click. Be able to to send money to other account.
-    Extra ideas: investing, be able to request money. Be creative!
+    Savaitės projektas: Banko aplikacija (Revoliut klonas). Būkite kurybingi.
+    Suggestions: Registracija/ prisijungimas (ignoruokite saugumo standartus kolkas)
+    Saskaitos papildimas vienu paspaudimu, pinigu siuntimas kitoms saskaitoms. 
+    Valiutų konvertavimas.
+    Extra: Investavimas, Pinigu prašymai (Request money). Sukurkite ką norite, dirbkite kartu.
 
 #### Pamoka 2-3
 
-    Bank Project continued.
+    Revolut klono projekto tęsinys.
 
-## Savaitė  7 Front-end/SPA
+## Savaitė 7 Dizaino sprendimai .net Core aplikacijoms.
 
-### Pamoka  1
+### Pamoka 1
 
 #### Tikslai
 
