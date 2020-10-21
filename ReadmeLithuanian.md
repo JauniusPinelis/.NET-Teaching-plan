@@ -15,7 +15,7 @@
 
 #### Namų darbai projektas
 
-    Pagrindinis: 'Hello world' projektas
+    'Hello world' projektas
     Extra: Vardo pavardės ivedimas ir išspausdimas.
     Extra: Gimimo datos įvedimas ir amžiau spausdinimas.
 
@@ -28,8 +28,8 @@
 
 #### Project
 
-Main: Konsolinis skaičiuotuvas
-Extra: Įkėlimas į Github.
+    Konsolinis skaičiuotuvas
+    Extra: Įkėlimas į Github.
 
 ### Pamoka  3
 
@@ -101,7 +101,7 @@ Extra: Įkėlimas į Github.
 
 #### Projektas
 
-    Main: Kliento ikėlimas į Minima aplikaciją
+    Kliento ikėlimas į Minima aplikaciją
     Filtruoti visus produktus pagal klientą.
     Extra: Įdėti didelius duomenų kiekius į duomenų bazę ir stebėtis pokyčius.
 
@@ -129,8 +129,8 @@ Extra: Įkėlimas į Github.
 
 #### Project
 
-Mokymasis savarankiškai: Design patterns and dependency injection.
-Implementing dependency injection, Applying Service/ Repository patterns.
+    Mokymasis savarankiškai: Design patterns and dependency injection.
+    Implementing dependency injection, Applying Service/ Repository patterns.
 
 ## Savaitė 4 Architektūra, kodo perpanaudojimas, švarus programavimas
 
