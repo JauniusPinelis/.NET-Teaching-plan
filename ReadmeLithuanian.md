@@ -234,42 +234,42 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Revolut klono projekto tęsinys.
 
-## Savaitė 7 Dizaino sprendimai .net Core aplikacijoms.
+## Savaitė 7 Dizaino/ išorinės pusės sprendimai .net Core aplikacijoms.
 
 ### Pamoka 1
 
 #### Tikslai
 
-    1. Introduce to SPA js frameworks.
-    2. Introduce Angular CLI + Typescript
-    3. HttpClient in Angular.
+    1. Bibliotekos skirtos išorinės pusės igyvendinimui
+    2. Angular CLI + Typescript ekosistema
+    3. HttpClient technologija Angular.
 
 #### Projektas
 
-    Create a basic angular client to consume .net core Api.
+    Sukurti paprasta Angular http klienta, kuris iškviestų Api sistemą.
 
 ### Pamoka 2
 
 #### Tikslai
 
-    1. Further dive into Angular, Typescript
-    2. Components, Services
+    1. Gylinimasis į Angular ir Typescript.
+    2. Components ir servisai Angular sistemoje.
     3. Angular HttpGet, HttpPost, Delete requests
 
 #### Projektas
 
-    Moving existing functionality into Angular client.
+    naujų technikų įgyvendinimas Angular projekte.
 
-### Pamoka  3
+### Pamoka 3
 
 #### Tikslai
 
-    1. Further dive into Angular, Typescript
-    2. Revision on previous modules
+    1. Tolimesnis Gylinimasis į Angular, Typescript
+    2. Kartojimas/klausimai iš praeitų temų.
 
 #### Projektas
 
-    Full Angular spa intergation with .net core
+    Pilna Angular integracija su .net Core sistema
 
 ## Savaitė  8 Pipelines, Azure devops, Hosting
 
