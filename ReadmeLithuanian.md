@@ -131,41 +131,41 @@ Extra: Įkėlimas į Github.
 Mokymasis savarankiškai: Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
 
-## Savaitė  4 Architektura, kodo perpanaudojimas, švarus programavimas
+## Savaitė 4 Architektūra, kodo perpanaudojimas, švarus programavimas
 
-### Pamoka  1
+### Pamoka 1
 
 #### Tikslai
 
-    1. Understand Domain Driven design and apply its architecture
-    2. Introduction to interface and its power through Dependency injection
-    3. Repository and Service coding patterns
+    1. Domain Driven Dizainas
+    2. Interfaces ir jų naudojimas
+    3. Repositorijos/Servisų programavimo stiliai.
 
 #### Projektas
 
-    Upgrade existing 'Minima' project to employ Customer and Product service, 
-    inject them as services.
-    Refactor database accesss to use Repositories (Generic repositories + Unit of work)
+    Sukurti Klientų, produktų servisus ir idiegti juos į aplikaciją Minima.
+    Pakeisti Duomenų bazės prieeigą naudojant Repositories. (Generic repositories + Unit of work)
 
 ### Pamoka 2
 
 #### Tikslai
 
-    1. Dividing models into Entities and Data Transfer Objects.
-    2. Configure and employ automapper.
-    3. EXception handling
+    1. Entities vs Data Transfer Objects.
+    2. Automapper įrankio naudojimas
+    3. Darba su klaidomis programos metu (Exception handling)
 
 #### Projektas
 
-    Employ the principles above to the current project.
+    Panaudoti išmoktus dalykus savoje applikacijoje
 
 ### Pamoka  3
 
 #### Tikslai
 
-    1. Intro to asyncronous programming: Async/Await
-    2. Extension methods, Helper classes. When to use static classes
-    3. Shared project/ common packages patterns
+    1. Asyncroninio programavimo pagrindai ir panaudojimai. Async/Await
+    2. Extension metodai, Pagalbinės klasės. Kada naudoti statines klases.
+    3. Kodo perpanaudojimas projektuose, savu bibliotekų kurimas 
+    (Shared class library, nuget feed)
 
 #### Projektas
 
