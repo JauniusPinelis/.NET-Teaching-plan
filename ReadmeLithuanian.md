@@ -26,12 +26,12 @@
     1. Objektinis programavimas
     2. C# programavimai: arrays, loops, if statements, lists and etc
 
-#### Homework/Project
+#### Project
 
 Main: Konsolinis skaičiuotuvas
 Extra: Įkėlimas į Github.
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
@@ -39,13 +39,13 @@ Extra: Įkėlimas į Github.
     2. Instaliuojamos bibliotekos (Nuget)
     3. Informacijos išgavimas (web scraping) su ScrapySharp biblioteka.
 
-#### Homework/Project
+#### Project
 
  Darbo skelbimo informacijos automatinė analizė (Web scraper)
 
-## Week 2 MVC + Razor / Api technologijos
+## Savaitė  2 MVC + Razor / Api technologijos
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -71,65 +71,69 @@ Extra: Įkėlimas į Github.
 
     Registracijos formos tobulinimas -> paverčiant tai SPA su javascriptu
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
-    1. Introduce WebApi  (vs MVC)
-    2. Understand Rest Api
-    3. Sending parameters (FromBody vs FromUrl)
-    4. Test it via HttpGet, HttpPost, HttpDelete, Using Postman
+    1. WebApi technologija (vs MVC)
+    2. Rest Api principai
+    3. Duomeny siuntimas ir gavimas į/iš Api (FromBody vs FromUrl)
+    4. Api naudojimas ir testavimas HttpGet, HttpPost, HttpDelete, su Postman applikacija
 
 #### Projektas
 
-    Main: 'Minima' shop Warehouse Restfull Api system for 3 items: bread, milk and cake.
-    Extra: 3 items should reuse the same code, generic controllers, repository.
-    Extra: Add Swagger to Api
+    Main 'Minima' online parduotuvės aplikacijos programavimas su 3 produktais: duona,
+    pienas, tortas.
+    Extra: Visiems produktams naudoti bendrą koda: generic repository, 
+    unitOfWork, services.
+    Extra: Įdėti Swagger dokumentacijos įrankį į Api
 
-## Week 3 Databases
+## Savaitė 3 Duomenų bazės
 
-### Lesson 1
+### Pamoka 1
 
 #### Tikslai
 
-    1. Create database on you local machine, setup mssql
-    2. Create schemas/tables/data
-    3. Selecting data
-    4. SqlConnecion with .net core
+    1. Localios duomenų bazės sukurimas, Instaliavimas Microsoft Sql Server
+    2. Schemų, lentele, duomenų sukurimas
+    3. Duomenų išrinkimas
+    4. Duomenų bazės prijugimas prie .net core (SqlConnection, Dapper)
 
 #### Projektas
 
-    Main: Introduce Customer object in 'Minima' application
-    Upgrade existing application to be able to filter by customer.
-    Extra: Upgrade the database with millions of records and observe the performance. 
+    Main: Kliento ikėlimas į Minima aplikaciją
+    Filtruoti visus produktus pagal klientą.
+    Extra: Įdėti didelius duomenų kiekius į duomenų bazę ir stebėtis pokyčius.
 
 ### Pamoka 2
 
 #### Tikslai
 
-    1. Entity Framework Core introduced, its benefits over plain sql.
-    2. Get familiar with DbSets, Linq
+    1. Entity Framework Core technologijos idėjimas, jos pranašumai pries SQL
+    2. DbSets ir LINQ operacijos
 
 #### Projektas
 
-    Upgrade 'Minima' to use EF core and LinQ instead of SqlConnection
-    Extra: Research IEnumerable vs iqueryable and apply proper usage.
+    Pakeisti Minima iš SQL į EF Core ir LINQ
+    Extra: Ištyrinėti 'IEnumerable vs iqueryable' 
+    ir patikrinti ar jūsų programa naudoja tai teisingai
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
-    1. Introduce Foreign keys, Indexes.
-    2. Learn Stored procedures, functions 
-    3. Joins, Group bys
-    4. The issues with big data and efficiency.
+    1. Susipažinti su Sql Foreign keys, Indexes.
+    2. Išmokti Stored procedures, functions  naudojimą
+    3. Lentų sujungimai ir grupavimai (Joins, Group bys)
+    4. Užklausų optimizacija (kaip rašyti Sql,The issues with big data and efficiency).
 
-Design patterns and dependency injection.
+#### Project
+Mokymasis savarankiškai: Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
 
-## Week 4 Code-reusability Architecture and design patterns
+## Savaitė  4 Architektura, kodo perpanaudojimas, švarus programavimas
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -155,7 +159,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Employ the principles above to the current project.
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
@@ -167,9 +171,9 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Employ the principles above to the current project.
 
-## Week 5 Automated testing, test driven development
+## Savaitė  5 Automated testing, test driven development
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -194,7 +198,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Adding Integration tests to current projects.
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
@@ -206,9 +210,9 @@ Implementing dependency injection, Applying Service/ Repository patterns.
     GildedRose refactoring Kata
     https://github.com/emilybache/GildedRose-Refactoring-Kata
 
-## Week 6 Working in a team, team project
+## Savaitė  6 Working in a team, team project
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -227,9 +231,9 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Bank Project continued.
 
-## Week 7 Front-end/SPA
+## Savaitė  7 Front-end/SPA
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -253,7 +257,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Moving existing functionality into Angular client.
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
@@ -264,9 +268,9 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Full Angular spa intergation with .net core
 
-## Week 8 Pipelines, Azure devops, Hosting
+## Savaitė  8 Pipelines, Azure devops, Hosting
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -274,7 +278,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
     2. CI/CD
     3. Introduction to azure.
 
-#### Project
+### Project
 
     Setuping first pipeline in github which checks builds and runs tests.
 
@@ -290,7 +294,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Host a .NET project publicly
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
@@ -300,9 +304,9 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     To be added
 
-## Week 9 Working with legacy and complex code, .NET framework
+## Savaitė  9 Working with legacy and complex code, .NET framework
 
-### Lesson 1
+### Pamoka  1
 
 #### Tikslai
 
@@ -324,7 +328,7 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     An example interview coding task
 
-### Lesson 3
+### Pamoka  3
 
 #### Tikslai
 
