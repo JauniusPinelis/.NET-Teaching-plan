@@ -128,6 +128,7 @@ Extra: Įkėlimas į Github.
     4. Užklausų optimizacija (kaip rašyti Sql,The issues with big data and efficiency).
 
 #### Project
+
 Mokymasis savarankiškai: Design patterns and dependency injection.
 Implementing dependency injection, Applying Service/ Repository patterns.
 
@@ -144,7 +145,8 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 #### Projektas
 
     Sukurti Klientų, produktų servisus ir idiegti juos į aplikaciją Minima.
-    Pakeisti Duomenų bazės prieeigą naudojant Repositories. (Generic repositories + Unit of work)
+    Pakeisti Duomenų bazės prieeigą naudojant Repositories. (Generic repositories 
+    + Unit of work)
 
 ### Pamoka 2
 
@@ -164,46 +166,46 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     1. Asyncroninio programavimo pagrindai ir panaudojimai. Async/Await
     2. Extension metodai, Pagalbinės klasės. Kada naudoti statines klases.
-    3. Kodo perpanaudojimas projektuose, savu bibliotekų kurimas 
+    3. Kodo perpanaudojimas projektuose, savų bibliotekų kurimas 
     (Shared class library, nuget feed)
 
 #### Projektas
 
     Employ the principles above to the current project.
 
-## Savaitė  5 Automated testing, test driven development
+## Savaitė  5 Automatizuotas testavimas, programavimas pagrįstas testais
 
 ### Pamoka  1
 
 #### Tikslai
 
-    1. Introducing Test-driven development
-    2. Understanding Unit tests
-    3. XUnit testing framework, Facts/Theories
-    4. Architecture for testing frameworks
+    1. Programavimas pagrįstas testais (Test-driven development)
+    2. susipažinimas su Unit testais
+    3. XUnit testavimo spendimai, XUnit Faktai, Teorijos
+    4. Testavimo projektų/folderių išdėstymas.
 
 #### Projektas
 
-   1. Adding unit tests for existing projects
+   1. Automatinių testų sukūrimas Minima projektui.
 
 ### Pamoka 2
 
 #### Tikslai
 
-    1. Integration testing
-    2. Mocking services with Moq.
-    3. Replacing Database with InMemory Database for testing
+    1. Integraciniai testai
+    2. Servisų paruošimas testavimui su Moq
+    3. Duomenų bazės pakeitimas su Atminties baze testavimui.
 
 #### Projektas
 
-    Adding Integration tests to current projects.
+    Integracinių testų pridėjimas Minima projektui.
 
 ### Pamoka  3
 
 #### Tikslai
 
-    1. This is a revision session with those who needs more help.
-    2. The experiences ones will work on Gilded Rose refactoring kata
+    1. Paskaita skirta klausti, prisivyti.
+    2. Patyrę galės daryti užduotį GildedRose.
 
 #### Projektas
 
