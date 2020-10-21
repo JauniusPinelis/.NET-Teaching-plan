@@ -271,45 +271,44 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
     Pilna Angular integracija su .net Core sistema
 
-## Savaitė  8 Pipelines, Azure devops, Hosting
+## Savaitė  8 Cloud kompiuterija .NET ekosistemoje, Azure technologijos
 
-### Pamoka  1
+### Pamoka 1
 
 #### Tikslai
 
-    1. What is a pipeline.
-    2. CI/CD
-    3. Introduction to azure.
+    1. Automatizuotas testų paleidimas ir programų ikėlimas į internetą.
+    2. Azure technologijų spektras.
 
 ### Project
 
-    Setuping first pipeline in github which checks builds and runs tests.
+    Projektų statymas ir paleidimas su Azure
 
 ### Pamoka 2
 
 #### Tikslai
 
-    1. Free hosting solutions
-    2. Azure hosting
-    3. Database hosting
+    1. Nemokamo hostingo provideriai.
+    2. Azure sistemų talpinimas
+    3. Duomenų bazių talpinimas internete
 
 #### Projektas
 
-    Host a .NET project publicly
+    .NET projekto patalpinimas į internetą.
 
-### Pamoka  3
+### Pamoka 3
 
 #### Tikslai
 
-    1. Azure advanced: artifacts, blob storage, pricing, databases
+    1. Gylinimasis į Azure: Artifactai, Mokėjimo planai, certifikatai, duomenų bazės.
 
 ### Project
 
-    To be added
+    Bus pridėta
 
-## Savaitė  9 Working with legacy and complex code, .NET framework
+## Savaitė 9 Darbas su sudėtingu kodu senesnėmis technologijomis
 
-### Pamoka  1
+### Pamoka 1
 
 #### Tikslai
 
@@ -317,30 +316,28 @@ Implementing dependency injection, Applying Service/ Repository patterns.
 
 #### Projektas
 
-    Pick a project from .net solution open source (github)
-    and present its code. What architecture, pattern it uses?
+    Pasirinkto projekto iš Open-Source (github) pristatymas. 
+    Architekturos paaiškinimas, naudojamų technologijų analizė
 
 ### Pamoka 2
 
 #### Tikslai
 
-    1. Working with monoliths, spagetti code.
-    2. Advanced refactoring.
+    1. Darbas su monolotiniu (spagetti) kodu, 
+    2. Kodo tvarkimo metodika.
 
 #### Projektas
 
-    An example interview coding task
+    Darbo intervių namų užduoties pavyzdžio atlikimas
 
-### Pamoka  3
+### Pamoka 3
 
 #### Tikslai
 
-    1. .NET framework and other technologies still used in industry.
-    2. Project setup ith .net framework and OWin
-    3. OData web api
+    1. .NET Framework ir kitų senesnių technologijų naudojimas rinkoje.
+    2. .NET Framework projekto paleidimas su Owin pagalbą.
+    3. Odata technologija
 
 #### Projektas
 
-    Setup Odata Api on .net framework.
-
-
+    Odata projektas .NET Framework ekosistemoje
