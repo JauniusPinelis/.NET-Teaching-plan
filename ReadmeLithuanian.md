@@ -7,11 +7,11 @@
 
 #### Tikslai
 
-    1. Prisistatymas savęs , kurso, susipažinimas, .NET Programuotojo rinkos pristatymas
+    1. Prisistatymai ,susipažinimas su kurso struktūra, .NET Programuotojo rinkos pristatymas
     2. Kurso struktura ir tikslai
     3. Visual studio irankio idiegimas, programavimo aplinkos configuracija, 
     naujų projektų kurimas.
-    4. Ką daryti, kai užstringi programavimas.
+    4. Ką daryti, kai užstringi programuojant.
 
 #### Namų darbai projektas
 
