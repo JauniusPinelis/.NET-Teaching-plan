@@ -17,14 +17,14 @@
 
     'Hello world' projektas
     Extra: Vardo pavardės ivedimas ir išspausdimas.
-    Extra: Gimimo datos įvedimas ir amžiau spausdinimas.
+    Extra: Gimimo datos ivedimas ir amžiaus spausdinimas.
 
 ### Pamoka 2
 
 #### Tikslai
 
     1. Objektinis programavimas
-    2. C# programavimai: arrays, loops, if statements, lists and etc
+    2. C# programavimas: arrays, loops, if statements, lists ir kiti sintaksės elementai
 
 #### Project
 
@@ -35,7 +35,7 @@
 
 #### Tikslai
 
-    1. DAugiau c# programavimo, paveldėjimas.
+    1. Daugiau c# programavimo, paveldėjimas.
     2. Instaliuojamos bibliotekos (Nuget)
     3. Informacijos išgavimas (web scraping) su ScrapySharp biblioteka.
 
@@ -51,7 +51,7 @@
 
     1. MVC + Razor technologijos
     2. Projektų folderių/failu struktura
-    3. duomenų siuntimas/gavimas iš kontrolerių.
+    3. Duomenų siuntimas/gavimas iš kontrolerių.
     4. Web linkų maršrutizavimas projekte (routing)
 
 #### Projektas
@@ -69,7 +69,7 @@
 
 #### Projektas
 
-    Registracijos formos tobulinimas -> paverčiant tai SPA su javascriptu
+    Registracijos formos tobulinimas -> paverčiant tai 'Single Page Application' su javascriptu
 
 ### Pamoka  3
 
@@ -77,7 +77,7 @@
 
     1. WebApi technologija (vs MVC)
     2. Rest Api principai
-    3. Duomeny siuntimas ir gavimas į/iš Api (FromBody vs FromUrl)
+    3. Duomenų siuntimas ir gavimas į/iš Api (FromBody vs FromUrl)
     4. Api naudojimas ir testavimas HttpGet, HttpPost, HttpDelete, su Postman applikacija
 
 #### Projektas
@@ -171,7 +171,7 @@
 
 #### Projektas
 
-    Employ the principles above to the current project.
+    Išmoktų tehcnikų panadaudojimas 'Minima' projekte
 
 ## Savaitė  5 Automatizuotas testavimas, programavimas pagrįstas testais
 
@@ -180,7 +180,7 @@
 #### Tikslai
 
     1. Programavimas pagrįstas testais (Test-driven development)
-    2. susipažinimas su Unit testais
+    2. Susipažinimas su Unit testais
     3. XUnit testavimo spendimai, XUnit Faktai, Teorijos
     4. Testavimo projektų/folderių išdėstymas.
 
@@ -224,7 +224,7 @@
 
 #### Projektas
 
-    Savaitės projektas: Banko aplikacija (Revoliut klonas). Būkite kurybingi.
+    Savaitės projektas: Banko aplikacija (Revolut klonas). Būkite kurybingi.
     Suggestions: Registracija/ prisijungimas (ignoruokite saugumo standartus kolkas)
     Saskaitos papildimas vienu paspaudimu, pinigu siuntimas kitoms saskaitoms. 
     Valiutų konvertavimas.
@@ -234,7 +234,7 @@
 
     Revolut klono projekto tęsinys.
 
-## Savaitė 7 Dizaino/ išorinės pusės sprendimai .net Core aplikacijoms.
+## Savaitė 7 Dizaino/ išorinės pusės sprendimai .net Core aplikacijomis
 
 ### Pamoka 1
 
@@ -258,7 +258,7 @@
 
 #### Projektas
 
-    naujų technikų įgyvendinimas Angular projekte.
+    Naujų technikų įgyvendinimas Angular projekte.
 
 ### Pamoka 3
 
@@ -312,7 +312,8 @@
 
 #### Tikslai
 
-    1. Learn to analyse complex production code written by others.
+    1. Darbas su kitų žmonių parašytu kodu.
+    2. Darbas su masyviais projektais.
 
 #### Projektas
 
