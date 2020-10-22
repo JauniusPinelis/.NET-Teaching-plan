@@ -1,109 +1,108 @@
 
 # Mokymo planas
 
-## Savaitė 1 Pradiniai/ konsoles projektai
+## I Savaitė: Pradmenys, konsolinės ("Console") aplikacijos
 
-### Pamoka 1
-
-#### Tikslai
-
-    1. Prisistatymai ,susipažinimas su kurso struktūra, .NET Programuotojo rinkos pristatymas
-    2. Kurso struktura ir tikslai
-    3. Visual studio irankio idiegimas, programavimo aplinkos configuracija, 
-    naujų projektų kurimas.
-    4. Ką daryti, kai užstringi programuojant.
-
-#### Namų darbai projektas
-
-    'Hello world' projektas
-    Extra: Vardo pavardės ivedimas ir išspausdimas.
-    Extra: Gimimo datos ivedimas ir amžiaus spausdinimas.
-
-### Pamoka 2
+### I Pamoka:
 
 #### Tikslai
 
-    1. Objektinis programavimas
-    2. C# programavimas: arrays, loops, if statements, lists ir kiti sintaksės elementai
+    1. Mūsų visų prisistatymai, kurso pristatymas, susipažinimas tarpusavyje, Lietuvos darbo rinkos pristatymas esant .NET Programuotoju.
+    2. Kurso struktūra ir tikslai.
+    3. Visual Studio 2019 IDE (Integruotos kūrimo aplinkos) instaliacija, susipažinimas su programavimo aplinka, naujų projektų sukūrimas.
+    4. Kaip surasti ir ištaisyti programavimo klaidas? "Debugging" programavimo technika.
 
-#### Project
+#### Namų darbai/projektas
 
-    Konsolinis skaičiuotuvas
-    Extra: Įkėlimas į Github.
+    Pagrindinis darbas: 'Hello World' projekto sukūrimas.
+    Papildomai: Vardo bei pavardės įvedimas ir išspausdinimas viename sakinyje.
+    Papildomai: Gimimo datos įvedimas ir amžiaus išvedimas.
 
-### Pamoka  3
-
-#### Tikslai
-
-    1. Daugiau c# programavimo, paveldėjimas.
-    2. Instaliuojamos bibliotekos (Nuget)
-    3. Informacijos išgavimas (web scraping) su ScrapySharp biblioteka.
-
-#### Project
-
- Darbo skelbimo informacijos automatinė analizė (Web scraper)
-
-## Savaitė  2 MVC + Razor / Api technologijos
-
-### Pamoka  1
+### II Pamoka:
 
 #### Tikslai
 
-    1. MVC + Razor technologijos
-    2. Projektų folderių/failu struktura
-    3. Duomenų siuntimas/gavimas iš kontrolerių.
-    4. Web linkų maršrutizavimas projekte (routing)
+    1. Susipažinimas su Objektiniu programavimu (OOP).
+    2. C# programavimo kalbos įvadas: masyvai, sąrašai, ciklai, if sakiniai, operatoriai ir kiti sintaksės elementai.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Main : Registracijos formos applikacija.
-    Extra: Siunčiamų reikšmių tikrinimas (Input validation)
+    Pagrindinis darbas: Konsolinis skaičiuotuvas.
+    Papildomai: Skaičiuotuvo įkėlimas į GitHub.
 
-### Pamoka 2
+### III Pamoka:
 
 #### Tikslai
 
-    1. Razor problemos ir kam reikalingas Javascriptas
-    2. Javascripto naudojimas Razor applikacijose
-    3. Ajax/Jquery bibliotekos mūsų aplikacijose
+    1. Tęsiame toliau su C# programavimu: paveldėjimas ("Inheritance"), duomenų apgauba ("Encapsulation"), abstraktumas ("Abstraction").
+    2. NuGet paketų tvarkyklės pristatymas.
+    3. Automatinis informacijos surinkimas iš interneto naudojant "web scraping" techniką bei ScrapySharp biblioteką.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Registracijos formos tobulinimas -> paverčiant tai 'Single Page Application' su javascriptu
+    Pagrindinis darbas: Darbo skelbimų informacijos surinkimas naudojant "Web Scraping" techniką.
+    Papildomai:
 
-### Pamoka  3
+## II Savaitė: MVC + Razor, API technologijos
 
-#### Tikslai
-
-    1. WebApi technologija (vs MVC)
-    2. Rest Api principai
-    3. Duomenų siuntimas ir gavimas į/iš Api (FromBody vs FromUrl)
-    4. Api naudojimas ir testavimas HttpGet, HttpPost, HttpDelete, su Postman applikacija
-
-#### Projektas
-
-    Main 'Minima' online parduotuvės aplikacijos programavimas su 3 produktais: duona,
-    pienas, tortas.
-    Extra: Visiems produktams naudoti bendrą koda: generic repository, 
-    unitOfWork, services.
-    Extra: Įdėti Swagger dokumentacijos įrankį į Api
-
-## Savaitė 3 Duomenų bazės
-
-### Pamoka 1
+### I Pamoka
 
 #### Tikslai
 
-    1. Localios duomenų bazės sukurimas, Instaliavimas Microsoft Sql Server
-    2. Schemų, lentele, duomenų sukurimas
-    3. Duomenų išrinkimas
-    4. Duomenų bazės prijugimas prie .net core (SqlConnection, Dapper)
+    1. MVC architektūros ir Razor variklio pristatymas.
+    2. Projekto aplankalų struktūros pristatymas.
+    3. Duomenų siuntimas ir gavimas iš kontrolerių ("Controllers").
+    4. Web nuorodų maršrutizavimas projekte ("Routing").
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Kliento ikėlimas į Minima aplikaciją
-    Filtruoti visus produktus pagal klientą.
-    Extra: Įdėti didelius duomenų kiekius į duomenų bazę ir stebėtis pokyčius.
+    Pagrindinis darbas: Registracijos formos applikacija.
+    Papildomai: Siunčiamų reikšmių tikrinimas serverio dalyje ("Input Validation").
+
+### II Pamoka
+
+#### Tikslai
+
+    1. Razor variklio limitai bei kam mums yra reikalingas Javascript programavimo kalba?
+    2. Javascript kalbos naudojimas Razor aplikacijose.
+    3. AJAX/jQuery bibliotekų pristatymas mūsų aplikacijose.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Registracijos formos tobulinimas. Pavertimas vieno puslapio aplikacija ("Single Page Application").
+    Papildomai:
+
+### III Pamoka
+
+#### Tikslai
+
+    1. WebAPI technologija bei jos skirtumai lyginant su MVC.
+    2. Rest API architektūra.
+    3. Parametrų siuntimas ("FromBody" prieš "FromUrl").
+    4. API testavimas ir naudojimasis pasitelkiant "HttpGet", "HttpPost", "HttpDelete" užklausomis bei Postman aplikacija.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: 'Minima' internetinės parduotuvės kūrimas su trimis produktais: duona, pienu bei tortu.
+    Papildomai: Visi šie produktai turėtų pernaudoti tapatį kodą, kontrolerius bei saugyklą.
+    Papildomai: Įdiegti "Swagger" dokumentacijos kalbą į API.
+
+## III Savaitė: Duomenų bazės
+
+### I Pamoka:
+
+#### Tikslai
+
+    1. Lokalios duomenų bazės sukūrimas, Microsoft Sql Server instaliacija.
+    2. Duomenų bazės schemų, lentelių, pradinių duomenų sukūrimas.
+    3. Darbas su duomenimis: "SELECT", "UPDATE", "INSERT", "DELETE" veiksmai.
+    4. Duomenų bazės prijungimas prie .NET Core ("SqlConnection", "Dapper").
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Kliento objekto pridėjimas į Minima aplikaciją.
+    Papildomai: Produktų filtravimas pagal kliento objektą.
+    Papildomai: Didelio kiekio duomenų įkėlimas į duomenų bazę ir greičio pokyčio stebėjimas.
 
 ### Pamoka 2
 
@@ -127,7 +126,7 @@
     3. Lentų sujungimai ir grupavimai (Joins, Group bys)
     4. Užklausų optimizacija (kaip rašyti Sql,The issues with big data and efficiency).
 
-#### Project
+#### Namų darbai/projektas
 
     Mokymasis savarankiškai: Design patterns and dependency injection.
     Implementing dependency injection, Applying Service/ Repository patterns.
@@ -280,7 +279,7 @@
     1. Automatizuotas testų paleidimas ir programų ikėlimas į internetą.
     2. Azure technologijų spektras.
 
-### Project
+### Namų darbai/projektas
 
     Projektų statymas ir paleidimas su Azure
 
@@ -302,7 +301,7 @@
 
     1. Gylinimasis į Azure: Artifactai, Mokėjimo planai, certifikatai, duomenų bazės.
 
-### Project
+### Namų darbai/projektas
 
     Bus pridėta
 
