@@ -104,240 +104,254 @@
     Papildomai: Produktų filtravimas pagal kliento objektą.
     Papildomai: Didelio kiekio duomenų įkėlimas į duomenų bazę ir greičio pokyčio stebėjimas.
 
-### Pamoka 2
+### II Pamoka:
 
 #### Tikslai
 
-    1. Entity Framework Core technologijos idėjimas, jos pranašumai pries SQL
-    2. DbSets ir LINQ operacijos
-
-#### Projektas
-
-    Pakeisti Minima iš SQL į EF Core ir LINQ
-    Extra: Ištyrinėti 'IEnumerable vs iqueryable' 
-    ir patikrinti ar jūsų programa naudoja tai teisingai
-
-### Pamoka  3
-
-#### Tikslai
-
-    1. Susipažinti su Sql Foreign keys, Indexes.
-    2. Išmokti Stored procedures, functions  naudojimą
-    3. Lentų sujungimai ir grupavimai (Joins, Group bys)
-    4. Užklausų optimizacija (kaip rašyti Sql,The issues with big data and efficiency).
+    1. Entity Framework Core technologijos pristatymas, jos pranašumai prieš paprastą SQL.
+    2. Susipažinimas su DbSets ir su LINQ operacijomis.
 
 #### Namų darbai/projektas
 
-    Mokymasis savarankiškai: Design patterns and dependency injection.
-    Implementing dependency injection, Applying Service/ Repository patterns.
+    Pagrindinis darbas: Pagerinti "Minima" aplikaciją, kad būtų naudojamas EF Core ir Linq vietoje SqlConnection.
+    Papildomai: Susipažinti su "IEnumerable" ir "IQueryable" skirtumais bei patikrinti ar 
+    jūsų projektas juos naudoja teisingai.
 
-## Savaitė 4 Architektūra, kodo perpanaudojimas, švarus programavimas
-
-### Pamoka 1
-
-#### Tikslai
-
-    1. Domain Driven Dizainas
-    2. Interfaces ir jų naudojimas
-    3. Repositorijos/Servisų programavimo stiliai.
-
-#### Projektas
-
-    Sukurti Klientų, produktų servisus ir idiegti juos į aplikaciją Minima.
-    Pakeisti Duomenų bazės prieeigą naudojant Repositories. (Generic repositories 
-    + Unit of work)
-
-### Pamoka 2
+### III Pamoka:
 
 #### Tikslai
 
-    1. Entities vs Data Transfer Objects.
-    2. Automapper įrankio naudojimas
-    3. Darba su klaidomis programos metu (Exception handling)
+    1. Susipažinimas su SQL Foreign keys, Indexes.
+    2. "Stored" procedūrų, funkcijų naudojimo pristatymas.
+    3. Lentų sujungimas bei grupavimas ("Joins", "Group by", "Aliases").
+    4. Problemos, atsirandančios dirbant su didžiaisiais duomenimis ("Big Data") ir užklausų optimizacija.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Panaudoti išmoktus dalykus savoje applikacijoje
+    Pagrindinis darbas: Darbas su Design patterns ir Dependency Injection (DI).
+    Papildomai:
 
-### Pamoka  3
+## IV Savaitė: Architektūra, kodo pernaudojimas, Design patterns
 
-#### Tikslai
-
-    1. Asyncroninio programavimo pagrindai ir panaudojimai. Async/Await
-    2. Extension metodai, Pagalbinės klasės. Kada naudoti statines klases.
-    3. Kodo perpanaudojimas projektuose, savų bibliotekų kurimas 
-    (Shared class library, nuget feed)
-
-#### Projektas
-
-    Išmoktų tehcnikų panadaudojimas 'Minima' projekte
-
-## Savaitė  5 Automatizuotas testavimas, programavimas pagrįstas testais
-
-### Pamoka  1
+### I Pamoka
 
 #### Tikslai
 
-    1. Programavimas pagrįstas testais (Test-driven development)
-    2. Susipažinimas su Unit testais
-    3. XUnit testavimo spendimai, XUnit Faktai, Teorijos
-    4. Testavimo projektų/folderių išdėstymas.
+    1. Susipažinti su Domain Driven Design (DDD) architektūra bei jo praktiniu pritaikymu.
+    2. Interface ir jo taikymo per Dependency Injection (DI) pristatymas.
+    3. Repository ir Service Design pattern pristatymas.
 
-#### Projektas
+#### Namų darbai/projektas
 
-   1. Automatinių testų sukūrimas Minima projektui.
+    Pagrindinis darbas: Patobulinti "Minima" aplikaciją taip, kad būtų naudojami kliento ("Customer") ir produkto ("Product") objektai, naudoti šiuos objektus kaip servisus.
+    Duomenų bazės prieiga turėtų pradėti naudoti Repositoriy Design pattern.
+    Papildomai:
 
-### Pamoka 2
-
-#### Tikslai
-
-    1. Integraciniai testai
-    2. Servisų paruošimas testavimui su Moq
-    3. Duomenų bazės pakeitimas su Atminties baze testavimui.
-
-#### Projektas
-
-    Integracinių testų pridėjimas Minima projektui.
-
-### Pamoka  3
+### II Pamoka
 
 #### Tikslai
 
-    1. Paskaita skirta klausti, prisivyti.
-    2. Patyrę galės daryti užduotį GildedRose.
+    1. Išsiaiškinsime skirtumus tarp Entity ir Data Transfer Objects ("DTOs").
+    2. Automapper įrankio konfigūracija bei panaudojimas.
+    3. Darbas su klaidomis, atsirandančiomis programos metu ("Exception handling").
 
-#### Projektas
+#### Namų darbai/projektas
 
-    GildedRose refactoring Kata
+    Pagrindinis darbas: Panaudoti šiuos dalykus savoje aplikacijoje.
+    Papildomai:
+
+### III Pamoka
+
+#### Tikslai
+
+    1. Asinchroninis programavimas: Async/Await.
+    2. Plėtimo metodai ("Extension methods"), Pagalbinės klasės ("Helper classes"). Kada reikia naudoti statines klases.
+    3. Kodo pernaudojimas projektuose, savų bibliotekų kūrimas.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Išmoktų technikų panaudojimas "Minima" projekte.
+    Papildomai:
+
+## V Savaitė: Automatizuotas testavimas, Test-driven development (TDD)
+
+### I Pamoka
+
+#### Tikslai
+
+    1. Susipažinimas su Test-driven development (TDD).
+    2. Susipažinimas su "Unit" testais.
+    3. XUnit testavimo biblioteka, "Facts", "Theories".
+    4. Testavimo architektūra: projektų, aplankalų, testų išdėstymas.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Pridėti automatinius testus į "Minima" projektą.
+    Papildomai:
+
+### II Pamoka
+
+#### Tikslai
+
+    1. Integracinis testavimas.
+    2. Servisų paruošimas testavimui su "Moq" biblioteka.
+    3. Duomenų bazės simuliacija testuose saugant duomenų bazę atmintyje ("InMemory Database").
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Integracinių testų pridėjimas "Minima" projektui.
+    Papildomai:
+
+### III Pamoka
+
+#### Tikslai
+
+    1. Paskaita bus skirta klausimams, pagalbai ar prisivijimui prie klasės.
+    2. Labiau patyrę, neturintys ką daryti, galės daryti užduotį "GildedRose".
+
+#### Namų darbai/projektas
+
+    Papildomai: GildedRose užduotis
     https://github.com/emilybache/GildedRose-Refactoring-Kata
 
-## Savaitė 6 Darbas komandoje
+## VI Savaitė: Darbas komandose, grupiniai projektai
 
-### Pamoka  1
+### I Pamoka
 
 #### Tikslai
 
     1. Darbas su Git versijavimo sistema.
-    2. Scrum/Sprints projektu valdymo metodologijos.
-    3. Pasiskirstymas komandomis ir darbas realaus pasaulio scenarijumi.
+    2. Scrum, Sprints projektų valdymo metodologijos.
+    3. Pasiskirstymas komandomis, realaus gyvenimo situacijų simuliacija.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Savaitės projektas: Banko aplikacija (Revolut klonas). Būkite kurybingi.
-    Suggestions: Registracija/ prisijungimas (ignoruokite saugumo standartus kolkas)
-    Saskaitos papildimas vienu paspaudimu, pinigu siuntimas kitoms saskaitoms. 
-    Valiutų konvertavimas.
-    Extra: Investavimas, Pinigu prašymai (Request money). Sukurkite ką norite, dirbkite kartu.
+    Savaitės projektas: Banko aplikacija ("Revolut" kopija). Būkite kūrybingi!
+    Pasiūlymai: Registracijos bei prisijungimo funkcionalumo pridėjimas (ignoruojame saugumo standartus kol kas).
+    Sąskaitos papildimas vienu paspaudimu, pinigų siuntimas į kitas sąskaitas. 
+    Valiutos konvertavimas.
+    Papildomai: Investavimas, Pinigų prašymo užklausos ("Request money"). Sukurkite ką norite, dirbkite kartu.
 
-#### Pamoka 2-3
+#### II-III Pamokos
 
-    Revolut klono projekto tęsinys.
+    Tęsiame darbą prie Banko aplikacijos.
 
-## Savaitė 7 Dizaino/ išorinės pusės sprendimai .net Core aplikacijomis
+## VII Savaitė: Dizaino, Front-end dalis, Vieno puslapio aplikacija ("SPA")
 
-### Pamoka 1
-
-#### Tikslai
-
-    1. Bibliotekos skirtos išorinės pusės igyvendinimui
-    2. Angular CLI + Typescript ekosistema
-    3. HttpClient technologija Angular.
-
-#### Projektas
-
-    Sukurti paprasta Angular http klienta, kuris iškviestų Api sistemą.
-
-### Pamoka 2
+### I Pamoka
 
 #### Tikslai
 
-    1. Gylinimasis į Angular ir Typescript.
-    2. Components ir servisai Angular sistemoje.
-    3. Angular HttpGet, HttpPost, Delete requests
+    1. Bibliotekų, skirtų Front-end daliai, Vieno puslapio aplikacijai ("SPA") pristatymas.
+    2. Angular CLI ir Typescript ekosistemos pristatymas.
+    3. HttpClient ir Angular technologijų pristatymas.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Naujų technikų įgyvendinimas Angular projekte.
+    Pagrindinis darbas: Sukurti paprastą Angular klientą, kuris naudotų .NET Core API.
+    Papildomai:
 
-### Pamoka 3
-
-#### Tikslai
-
-    1. Tolimesnis Gylinimasis į Angular, Typescript
-    2. Kartojimas/klausimai iš praeitų temų.
-
-#### Projektas
-
-    Pilna Angular integracija su .net Core sistema
-
-## Savaitė  8 Cloud kompiuterija .NET ekosistemoje, Azure technologijos
-
-### Pamoka 1
+### II Pamoka
 
 #### Tikslai
 
-    1. Automatizuotas testų paleidimas ir programų ikėlimas į internetą.
-    2. Azure technologijų spektras.
+    1. Tolimesnis gilinimasis į Angular ir Typescript technologijas.
+    2. Komponentai ir servisai Angular sistemoje.
+    3. Angular "HttpGet", "HttpPost", "Delete" užklausos.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Esamo funkcionalumo perkėlimas į Angular klientą.
+    Papildomai:
+
+### III Pamoka
+
+#### Tikslai
+
+    1. Toliau mokomės Angular, Typescript.
+    2. Praeitų modulių apžvalga, kartojimasis.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Pilna Angular integracija su .NET Core.
+    Papildomai:
+
+## VIII Savaitė: Debesų kompiuterija .NET ekosistemoje, Azure technologijos
+
+### I Pamoka
+
+#### Tikslai
+
+    1. Kas yra "pipeline"?
+    2. Nuolatinės integracijos ("CI") ir nuolatinio diegimo ("CD") įvadas.
+    3. Azure debesų kompiuterijos pristatymas.
 
 ### Namų darbai/projektas
 
-    Projektų statymas ir paleidimas su Azure
+    Pagrindinis darbas: Projektų nuolatinės integracijos ("CI") bei nuolatinio diegimo ("CD") pridėjimas, 
+    šios integracijos tikrina programas bei testus.
+    Papildomai:
 
-### Pamoka 2
-
-#### Tikslai
-
-    1. Nemokamo hostingo provideriai.
-    2. Azure sistemų talpinimas
-    3. Duomenų bazių talpinimas internete
-
-#### Projektas
-
-    .NET projekto patalpinimas į internetą.
-
-### Pamoka 3
+### II Pamoka
 
 #### Tikslai
 
-    1. Gylinimasis į Azure: Artifactai, Mokėjimo planai, certifikatai, duomenų bazės.
+    1. Nemokamos prieglobos ("Hosting") tiekėjų pristatymas.
+    2. Azure priegloba.
+    3. Duomenų bazių priegloba.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: .NET projekto patalpinimas į internetą.
+    Papildomai:
+
+### III Pamoka
+
+#### Tikslai
+
+    1. Gilinimasis į "Azure" toliau: artefaktai, mokėjimo planai, sertifikatai, duomenų bazės.
 
 ### Namų darbai/projektas
 
-    Bus pridėta
+    Pagrindinis darbas: Bus pridėta.
+    Papildomai:
 
-## Savaitė 9 Darbas su sudėtingu kodu senesnėmis technologijomis
+## IX Savaitė: Darbas su senu ir sudėtingu kodu, .NET Framework karkasas
 
-### Pamoka 1
-
-#### Tikslai
-
-    1. Darbas su kitų žmonių parašytu kodu.
-    2. Darbas su masyviais projektais.
-
-#### Projektas
-
-    Pasirinkto projekto iš Open-Source (github) pristatymas. 
-    Architekturos paaiškinimas, naudojamų technologijų analizė
-
-### Pamoka 2
+### I Pamoka
 
 #### Tikslai
 
-    1. Darbas su monolotiniu (spagetti) kodu, 
-    2. Kodo tvarkimo metodika.
+    1. Išmokti dirbti su sudėtingu kodu, parašytu kitų žmonių.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Darbo intervių namų užduoties pavyzdžio atlikimas
+    Pagrindinis darbas: Pasirinkti atviro kodo ("Open source") .NET projektą iš GitHub
+    ir pristatyti šio projekto kodą. Kokia jo architektūra, kokius "Design pattern" jis naudoja?
+    https://github.com/quozd/awesome-dotnet
+    Papildomai:
 
-### Pamoka 3
+### II Pamoka
 
 #### Tikslai
 
-    1. .NET Framework ir kitų senesnių technologijų naudojimas rinkoje.
-    2. .NET Framework projekto paleidimas su Owin pagalbą.
-    3. Odata technologija
+    1. Darbas su monolitiniais projektais, "spaghetti" kodu.
+    2. Kodo tvarkymo metodika.
 
-#### Projektas
+#### Namų darbai/projektas
 
-    Odata projektas .NET Framework ekosistemoje
+    Pagrindinis darbas: Darbo interviu užduotis.
+    Papildomai:
+
+### III Pamoka
+
+#### Tikslai
+
+    1. .NET Framework ir kitų senesnių technologijų, kurios dar vis naudojamos rinkoje, apžvalga.
+    2. .NET Framework projekto paleidimas su Owin.
+    3. Odata WebAPI technologija.
+
+#### Namų darbai/projektas
+
+    Pagrindinis darbas: Odata WebAPI sudiegimas į NET Framework projektą.
+    Papildomai:
