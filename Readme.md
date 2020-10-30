@@ -271,17 +271,17 @@
 #### Aim
 
     1. This is a revision session with those who need more help.
-    2. The experienced ones will work on Gilded Rose Refactoring Kata.
+    2. The experienced ones will work on GildedRose Refactoring Kata.
 
 #### Homework/Project
 
     Extra: GildedRose refactoring Kata
   
 #### Links
-    
+
     GildedRose Kata - https://github.com/emilybache/GildedRose-Refactoring-Kata
     Refactoring Katas - https://kata-log.rocks/refactoring
-    
+
 ## Week 6: Working in teams, team project.
 
 ### Lesson 1
@@ -301,6 +301,8 @@
 
 #### Links
     
+    How Banks operate - https://www.marketreview.com/how-banks-operate/
+    Revolut -http://www.boussiasconferences.gr/files/_boussias_conferences_content/presentations/digitalbanking_cy/2019/dimitris_litsikakis_digibanking_cy19.pdf
     Scrum - https://en.wikipedia.org/wiki/Scrum_(software_development)
     Graphical Git clients - https://git-scm.com/downloads/guis
 
@@ -342,7 +344,7 @@
     
 #### Links
 
-    
+
 
 ### Lesson 3
 
@@ -358,7 +360,7 @@
     
 #### Links
 
-    
+
 
 ## Week 8: Pipelines, Azure DevOps, Hosting
 
@@ -391,6 +393,7 @@
 #### Homework/Project
 
     Main: Host a .NET project publicly.
+    Extra:
     
 #### Links
 
@@ -404,9 +407,11 @@
 
 ### Homework/Project
 
-    Main: To be added
+    Main: To be added.
+    Extra:
     
 #### Links
+
 
 
 ## Week 9: Working with legacy and complex code, .NET Framework
@@ -420,7 +425,7 @@
 #### Homework/Project
 
     Main: Pick a open source .NET project from GitHub.
-    Present its code. What architecture, patterns doest it use?
+    Present its code. What architecture, patterns does it use?
     Extra:
     
 #### Links 
@@ -458,5 +463,5 @@
  
  #### Links
  
-    
-    
+ 
+ 
