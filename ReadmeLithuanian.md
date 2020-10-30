@@ -121,14 +121,14 @@
 
 #### Tikslai
 
-    1. Susipažinimas su „SQL“ Foreign keys, Indexes.
+    1. Susipažinimas su „SQL“ „Foreign“ raktais, indeksais.
     2. „Stored“ procedūrų, funkcijų naudojimo pristatymas.
     3. Lentų sujungimas bei grupavimas (Joins, Group by, Aliases).
     4. Problemos, atsirandančios dirbant su didžiaisiais duomenimis (Big Data) ir užklausų optimizacija.
 
 #### Namų darbai/projektas
 
-    Pagrindinis darbas: Darbas su „Design patterns“ ir Dependency Injection (DI).
+    Pagrindinis darbas: Darbas su „Design patterns“ ir „Dependency Injection“ (DI).
     Papildomai:
 
 ## IV Savaitė: Architektūra, kodo pernaudojimas, „Design patterns“
@@ -195,7 +195,7 @@
 
     1. Integracinis testavimas.
     2. Servisų paruošimas testavimui su „Moq“ biblioteka.
-    3. Duomenų bazės simuliacija testuose saugant duomenų bazę atmintyje (In-Memory Database).
+    3. Duomenų bazės simuliacija testuose, duomenų bazę saugant atmintyje (In-Memory Database).
 
 #### Namų darbai/projektas
 
@@ -242,7 +242,7 @@
 
 #### Tikslai
 
-    1. Bibliotekų, skirtų „Front-end“ daliai, Vieno puslapio aplikacijai (SPA) pristatymas.
+    1. Bibliotekų, skirtų „Front-end“ daliai, Vieno puslapio aplikacijai (SPA), pristatymas.
     2. „Angular CLI“ ir „Typescript“ ekosistemos pristatymas.
     3. „HttpClient“ ir „Angular“ technologijų pristatymas.
 
@@ -288,8 +288,8 @@
 
 ### Namų darbai/projektas
 
-    Pagrindinis darbas: Projektų nuolatinės integracijos (CI) bei nuolatinio diegimo (CD) pridėjimas, 
-    šios integracijos tikrina programas bei testus.
+    Pagrindinis darbas: Projektų nuolatinės integracijos (CI) bei nuolatinio diegimo (CD) pridėjimas. 
+    Šios integracijos tikrina programas bei testus.
     Papildomai:
 
 ### II Pamoka
@@ -326,8 +326,8 @@
 
 #### Namų darbai/projektas
 
-    Pagrindinis darbas: Pasirinkti atviro kodo (Open source) .NET projektą iš „GitHub“
-    ir pristatyti šio projekto kodą. Kokia jo architektūra, kokius „Design pattern“ jis naudoja?
+    Pagrindinis darbas: Pasirinkti atvirojo kodo (Open source) .NET projektą iš „GitHub“
+    ir pristatyti šio projekto programinį kodą. Kokia jo architektūra, kokius „Design pattern“ jis naudoja?
     https://github.com/quozd/awesome-dotnet
     Papildomai:
 
@@ -335,23 +335,23 @@
 
 #### Tikslai
 
-    1. Darbas su monolitiniais projektais, “spaghetti“ kodu.
+    1. Darbas su monolitiniais projektais, „spaghetti“ kodu.
     2. Kodo tvarkymo metodika.
 
 #### Namų darbai/projektas
 
-    Pagrindinis darbas: Darbo interviu užduotis.
+    Pagrindinis darbas: Darbo interviu programavimo užduotis.
     Papildomai:
 
 ### III Pamoka
 
 #### Tikslai
 
-    1. „.NET Framework“ ir kitų senesnių technologijų, kurios dar vis naudojamos rinkoje, apžvalga.
+    1. „.NET Framework“ ir kitų senesnių technologijų, dar vis naudojamų rinkoje, apžvalga.
     2. „.NET Framework“ projekto paleidimas su „Owin“.
     3. „Odata WebAPI“ technologija.
 
 #### Namų darbai/projektas
 
-    Pagrindinis darbas: „Odata WebAPI“ sudiegimas į „.NET Framework“ projektą.
+    Pagrindinis darbas: Sudiegti „Odata WebAPI“ į „.NET Framework“ projektą.
     Papildomai:
