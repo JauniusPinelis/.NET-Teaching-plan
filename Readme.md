@@ -59,6 +59,7 @@
     
     NuGet 101 - https://docs.microsoft.com/en-us/nuget/what-is-nuget
     Web scraping - https://en.wikipedia.org/wiki/Web_scraping
+    ScrapySharp - https://github.com/rflechner/ScrapySharp
 
 ## Week 2: MVC + Razor, API technologies.
 
@@ -78,6 +79,7 @@
     
 #### Links
 
+    Razor - https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio
     MVC Pattern - https://dotnet.microsoft.com/apps/aspnet/mvc
 
 ### Lesson 2
@@ -136,7 +138,7 @@
     
 #### Links
 
-    
+    SQL basics - https://www.dataquest.io/blog/sql-basics/
 
 ### Lesson 2
 
@@ -171,7 +173,8 @@
     Extra:
     
 #### Links
-
+    
+    SQL Join - https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
     Dependency Injection (DI) - https://stackoverflow.com/questions/130794/what-is-dependency-injection
 
 ## Week 4: Code-reusability, Architecture and Design patterns
@@ -180,7 +183,7 @@
 
 #### Aim
 
-    1. Understand Domain Driven design (DDD) and apply it's architecture.
+    1. Understand Domain-Driven design (DDD) and apply it's architecture.
     2. Introduce an interface and its power through Dependency Injection (DI).
     3. Repository and Service coding patterns.
 
@@ -192,7 +195,7 @@
 
 #### Links
 
-    Domain Driven design (DDD) - https://en.wikipedia.org/wiki/Domain-driven_design
+    Domain-Driven design (DDD) - https://en.wikipedia.org/wiki/Domain-driven_design
     Dependency Injection (DI) - https://stackoverflow.com/questions/130794/what-is-dependency-injection
 
 ### Lesson 2
@@ -209,7 +212,8 @@
     Extra:
     
 #### Links
-
+    
+    AutoMapper - https://automapper.org/
     Exception handling - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/exception-handling
 
 ### Lesson 3
@@ -246,7 +250,8 @@
     Extra:
     
 #### Links
-
+    
+    Unit testing - https://softwaretestingfundamentals.com/unit-testing/
     Test-driven development - https://en.wikipedia.org/wiki/Test-driven_development
 
 ### Lesson 2
@@ -255,7 +260,7 @@
 
     1. Integration testing.
     2. Mocking services with Moq.
-    3. Replacing Database with InMemory Database for testing.
+    3. Replacing Database with In-Memory Database for testing.
 
 #### Homework/Project
 
@@ -263,8 +268,9 @@
     Extra:
     
 #### Links
-
-
+    
+    Integration testing - https://softwaretestingfundamentals.com/integration-testing/
+    In-Memory Database - https://docs.microsoft.com/en-us/ef/core/providers/in-memory/?tabs=dotnet-core-cli
 
 ### Lesson 3
 
@@ -326,9 +332,10 @@
     Extra: 
 
 #### Links
-
-
-
+    
+    Angular Docs - https://angular.io/docs
+    Single-page applications (SPAs) versus Multiple-page applications (MPAs) - https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
+    
 ### Lesson 2
 
 #### Aim
@@ -344,13 +351,13 @@
     
 #### Links
 
-
+    Angular Docs - https://angular.io/docs
 
 ### Lesson 3
 
 #### Aim
 
-    1. Further dive into Angular, Typescript.
+    1. More on Angular, Typescript.
     2. Revision on the previous modules.
 
 #### Homework/Project
@@ -360,7 +367,7 @@
     
 #### Links
 
-
+    Angular Docs - https://angular.io/docs
 
 ## Week 8: Pipelines, Azure DevOps, Hosting
 
@@ -398,6 +405,8 @@
 #### Links
 
     Free web hosting - https://www.techradar.com/web-hosting/best-free-web-hosting
+    SmarterASP.net - https://www.smarterasp.net/
+    GitHub Pages - https://pages.github.com/
 
 ### Lesson 3
 
@@ -445,7 +454,7 @@
     Extra:
     
 #### Links
-
+     
     Refactoring Katas - https://kata-log.rocks/refactoring
 
 ### Lesson 3
@@ -462,6 +471,7 @@
     Extra:
  
  #### Links
- 
- 
+    
+    .NET Framework - https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework
+    Odata API - https://www.odata.org/
  
