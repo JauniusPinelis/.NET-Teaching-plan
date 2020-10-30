@@ -43,7 +43,7 @@
     Pagrindinis darbas: Darbo skelbimų informacijos surinkimas naudojant „Web scraping“ techniką.
     Papildomai:
 
-## II Savaitė: MVC + Razor, API technologijos
+## II Savaitė: „MVC + Razor“, „API“ technologijos
 
 ### I Pamoka
 
@@ -276,7 +276,7 @@
     Pagrindinis darbas: Pilna „Angular“ integracija su „.NET Core“.
     Papildomai:
 
-## VIII Savaitė: Debesų kompiuterija .NET ekosistemoje, Azure technologijos
+## VIII Savaitė: Debesų kompiuterija .NET ekosistemoje, „Azure“ technologijos
 
 ### I Pamoka
 
