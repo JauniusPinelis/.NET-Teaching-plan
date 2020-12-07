@@ -18,6 +18,12 @@
     Main: Hello World in Visual Studio.
     Extra: Enter your name or surname in Console window and print out a full sentence.
     Extra: Enter your date of birth and produce age.
+    
+#### Links
+
+    Visual Studio 2019 - https://visualstudio.microsoft.com/vs/
+    Hello World program - https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+    Developer salaries - https://docs.google.com/presentation/d/1keUGzMCqV3oedd2x9sPMTa3x2TP9iLDNWWy2OHqxF-c/
 
 ### Lesson 2
 
@@ -30,6 +36,11 @@
 
     Main: Console Calculator.
     Extra: Upload it to GitHub.
+   
+#### Links
+
+    Console Project Tutorial - https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019
+    GitHub 101 - https://guides.github.com/
 
 ### Lesson 3
 
@@ -43,6 +54,12 @@
 
     Main: Job advertisement scraper.
     Extra:
+    
+#### Links
+    
+    NuGet 101 - https://docs.microsoft.com/en-us/nuget/what-is-nuget
+    Web scraping - https://en.wikipedia.org/wiki/Web_scraping
+    ScrapySharp - https://github.com/rflechner/ScrapySharp
 
 ## Week 2: MVC + Razor, API technologies.
 
@@ -59,6 +76,11 @@
 
     Main: Registration form application.
     Extra: Back-end validation and attributes.
+    
+#### Links
+
+    Razor - https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio
+    MVC Pattern - https://dotnet.microsoft.com/apps/aspnet/mvc
 
 ### Lesson 2
 
@@ -72,6 +94,10 @@
 
     Main: Registration form upgrade. Make it a Single-page application (SPA).
     Extra:
+    
+#### Links
+
+    Razor - https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio
 
 ### Lesson 3
 
@@ -87,6 +113,11 @@
     Main: 'Minima' shop Warehouse RESTful API system for three items: bread, milk and cake.
     Extra: 3 items should reuse the same code, generic controllers, repository.
     Extra: Add Swagger to API.
+    
+#### Links
+
+    What is an API? - https://www.youtube.com/watch?v=s7wmiS2mSXY&ab_channel=MuleSoftVideos
+    REST API - https://www.restapitutorial.com/
 
 ## Week 3: Databases
 
@@ -104,6 +135,10 @@
     Main: Introduce customer object in 'Minima' application.
     Upgrade existing application to be able to filter by the customer.
     Extra: Upgrade the database with millions of records and observe the performance. 
+    
+#### Links
+
+    SQL basics - https://www.dataquest.io/blog/sql-basics/
 
 ### Lesson 2
 
@@ -116,6 +151,11 @@
 
     Main: Upgrade 'Minima' to use EF Core and Linq instead of SqlConnection.
     Extra: Research IEnumerable vs IQueryable and apply proper usage.
+    
+#### Links
+
+    EF Core - https://docs.microsoft.com/en-us/ef/core/
+    LINQ - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
 
 ### Lesson 3
 
@@ -131,6 +171,11 @@
     Main: Design patterns and Dependency Injection (DI).
     Implementing Dependency Injection, applying Service, Repository patterns.
     Extra:
+    
+#### Links
+    
+    SQL Join - https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
+    Dependency Injection (DI) - https://stackoverflow.com/questions/130794/what-is-dependency-injection
 
 ## Week 4: Code-reusability, Architecture and Design patterns
 
@@ -138,7 +183,7 @@
 
 #### Aim
 
-    1. Understand Domain Driven design (DDD) and apply it's architecture.
+    1. Understand Domain-Driven design (DDD) and apply it's architecture.
     2. Introduce an interface and its power through Dependency Injection (DI).
     3. Repository and Service coding patterns.
 
@@ -147,6 +192,11 @@
     Main: Upgrade existing 'Minima' project to employ Customer and Product service, inject them as services.
     Refactor database access to use Repositories (Generic repositories + Unit of work).
     Extra:
+
+#### Links
+
+    Domain-Driven design (DDD) - https://en.wikipedia.org/wiki/Domain-driven_design
+    Dependency Injection (DI) - https://stackoverflow.com/questions/130794/what-is-dependency-injection
 
 ### Lesson 2
 
@@ -160,6 +210,11 @@
 
     Main: Employ the principles above to the current project.
     Extra:
+    
+#### Links
+    
+    AutoMapper - https://automapper.org/
+    Exception handling - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/exceptions/exception-handling
 
 ### Lesson 3
 
@@ -173,6 +228,10 @@
 
     Main: Employ the principles above to the current project.
     Extra:
+
+#### Links
+
+    Asynchronous Programming - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 
 ## Week 5: Automated testing, Test-driven development (TDD)
 
@@ -189,6 +248,11 @@
 
     Main: Adding unit tests for existing projects.
     Extra:
+    
+#### Links
+    
+    Unit testing - https://softwaretestingfundamentals.com/unit-testing/
+    Test-driven development - https://en.wikipedia.org/wiki/Test-driven_development
 
 ### Lesson 2
 
@@ -196,24 +260,33 @@
 
     1. Integration testing.
     2. Mocking services with Moq.
-    3. Replacing Database with InMemory Database for testing.
+    3. Replacing Database with In-Memory Database for testing.
 
 #### Homework/Project
 
     Main: Adding Integration tests to current projects.
     Extra:
+    
+#### Links
+    
+    Integration testing - https://softwaretestingfundamentals.com/integration-testing/
+    In-Memory Database - https://docs.microsoft.com/en-us/ef/core/providers/in-memory/?tabs=dotnet-core-cli
 
 ### Lesson 3
 
 #### Aim
 
     1. This is a revision session with those who need more help.
-    2. The experienced ones will work on Gilded Rose Refactoring Kata.
+    2. The experienced ones will work on GildedRose Refactoring Kata.
 
 #### Homework/Project
 
     Extra: GildedRose refactoring Kata
-    https://github.com/emilybache/GildedRose-Refactoring-Kata
+  
+#### Links
+
+    GildedRose Kata - https://github.com/emilybache/GildedRose-Refactoring-Kata
+    Refactoring Katas - https://kata-log.rocks/refactoring
 
 ## Week 6: Working in teams, team project.
 
@@ -231,6 +304,13 @@
     Suggestions: be able to register and login (ignore security for now),
     Top up with the single click. Be able to send money to other account.
     Extra ideas: investing, be able to request money. Be creative!
+
+#### Links
+    
+    How Banks operate - https://www.marketreview.com/how-banks-operate/
+    Revolut -http://www.boussiasconferences.gr/files/_boussias_conferences_content/presentations/digitalbanking_cy/2019/dimitris_litsikakis_digibanking_cy19.pdf
+    Scrum - https://en.wikipedia.org/wiki/Scrum_(software_development)
+    Graphical Git clients - https://git-scm.com/downloads/guis
 
 #### Lesson 2-3
 
@@ -251,6 +331,11 @@
     Main: Create a basic Angular client to consume .NET Core API.
     Extra: 
 
+#### Links
+    
+    Angular Docs - https://angular.io/docs
+    Single-page applications (SPAs) versus Multiple-page applications (MPAs) - https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58
+    
 ### Lesson 2
 
 #### Aim
@@ -263,18 +348,26 @@
 
     Main: Moving existing functionality into Angular client.
     Extra:
+    
+#### Links
+
+    Angular Docs - https://angular.io/docs
 
 ### Lesson 3
 
 #### Aim
 
-    1. Further dive into Angular, Typescript.
+    1. More on Angular, Typescript.
     2. Revision on the previous modules.
 
 #### Homework/Project
 
     Main: Full Angular spa integration with .NET Core.
     Extra:
+    
+#### Links
+
+    Angular Docs - https://angular.io/docs
 
 ## Week 8: Pipelines, Azure DevOps, Hosting
 
@@ -290,6 +383,11 @@
 
     Main: Setup a first pipeline in GitHub, which checks builds and runs tests.
     Extra:
+    
+#### Links
+    
+    CI/CD - https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+    Azure - https://azure.microsoft.com/en-us/
 
 ### Lesson 2
 
@@ -302,6 +400,13 @@
 #### Homework/Project
 
     Main: Host a .NET project publicly.
+    Extra:
+    
+#### Links
+
+    Free web hosting - https://www.techradar.com/web-hosting/best-free-web-hosting
+    SmarterASP.net - https://www.smarterasp.net/
+    GitHub Pages - https://pages.github.com/
 
 ### Lesson 3
 
@@ -311,7 +416,12 @@
 
 ### Homework/Project
 
-    Main: To be added
+    Main: To be added.
+    Extra:
+    
+#### Links
+
+
 
 ## Week 9: Working with legacy and complex code, .NET Framework
 
@@ -324,9 +434,12 @@
 #### Homework/Project
 
     Main: Pick a open source .NET project from GitHub.
-    and present its code. What architecture, pattern it uses?
-    https://github.com/quozd/awesome-dotnet
+    Present its code. What architecture, patterns does it use?
     Extra:
+    
+#### Links 
+
+    Open source .NET projects - https://github.com/quozd/awesome-dotnet
 
 ### Lesson 2
 
@@ -339,6 +452,10 @@
 
     Main: An example interview coding task.
     Extra:
+    
+#### Links
+     
+    Refactoring Katas - https://kata-log.rocks/refactoring
 
 ### Lesson 3
 
@@ -352,3 +469,9 @@
 
     Main: Setup Odata API on .NET Framework.
     Extra:
+ 
+#### Links
+    
+    .NET Framework - https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework
+    Odata API - https://www.odata.org/
+ 
