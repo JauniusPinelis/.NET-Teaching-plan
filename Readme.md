@@ -18,6 +18,7 @@
     Main: Hello World in Visual Studio.
     Extra: Enter your name or surname in Console window and print out a full sentence.
     Extra: Enter your date of birth and produce age.
+    Extra: Console Calculator.
     
 #### Links
 
@@ -34,7 +35,7 @@
 
 #### Homework/Project
 
-    Main: Console Calculator.
+    Main: Console Shop Project.
     Extra: Upload it to GitHub.
    
 #### Links
