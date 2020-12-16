@@ -9,6 +9,7 @@ Galimos komandos konsolėje:
 Jei tokiu produktų jau yra, papildyti.
 
 Extra: 
+Sukurti Vartotojo klasę, kuri laikytų pinigų balancą.
 Pakeisti kodą, kad atsirastų kainos. Modifikuoti List, kad parodytų ir kainas.
 Papildomos komandos:
 "Show Balance" parodyti kiek pinigų liko. Modifikuoti Buy komandą, kuri neleistų nusipirkti, jei neužtenka pinigų. 
