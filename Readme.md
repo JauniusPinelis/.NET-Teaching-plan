@@ -60,6 +60,7 @@
     
     NuGet 101 - https://docs.microsoft.com/en-us/nuget/what-is-nuget
     Web scraping - https://en.wikipedia.org/wiki/Web_scraping
+    Web scraping in c# - https://www.scrapingbee.com/blog/web-scraping-csharp/#making-an-http-request-to-a-web-page-in-c
     ScrapySharp - https://github.com/rflechner/ScrapySharp
 
 ## Week 2: MVC + Razor, API technologies.
