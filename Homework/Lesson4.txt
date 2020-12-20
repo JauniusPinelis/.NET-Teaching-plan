@@ -1,0 +1,9 @@
+Sukurti Registracijos formą su Vardu, Amžiumi ir Email.
+Paspaudus "Registruoti" turi patikrinti ar visi laukai užpildyti 
+ir užregistravus parodyti, kas buvo užregistruota virš registracijos lauko.
+Papildomi reikalavimai:
+1. 2 atskiri projektai darantys tą patį: vienas su Asp.Net Razor Pages and o kitas su ASP.NET MVC technologiją.
+2. Panaudoti Attributes, validuoti laukus išsiuntime.
+3. Panaudoti Bootstrap stilius mygtukui ir laukams.
+4. Sukurti atskirą klasę modeliui.
+5. Turėtų būtų panaudojami Get ir Post requestai.
