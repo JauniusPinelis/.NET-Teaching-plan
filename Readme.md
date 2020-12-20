@@ -69,9 +69,9 @@
 
 #### Aim
 
-    1. Introduce MVC design pattern and Razor.
+    1. Introduce Razor pages.
     2. Explain Project folder structure.
-    3. Introduce sending data to the controllers.
+    3. Introduce ASP.NET MVC.
     4. Explain Routing concept in MVC.
 
 #### Homework/Project
