@@ -5,3 +5,7 @@ Reikalavimai:
 3. Galimi veiksmai: Pridėti daržovę, ištrinti, gauti visas, gauti pagal Id, pakeisti pavadinimą.
 4. Tai turi būti ištęstuota Postman bibliotekos pagalba
 5. Turi būti išnaudoti Get, Post, Put, Delete Http metodų tipai.
+
+Extra:
+1. Pagooglinkite 'Generic Controller', 'Generic types' ir pakeiskite, kad vietoj 3 kontrolerių būtų vienas.
+2. Pridėkite Swagger Api biblioteką, kuri aprašo jūsų RestApi.
