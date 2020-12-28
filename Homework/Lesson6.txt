@@ -1,0 +1,7 @@
+Sukurti Asp.NET MVC REst Api aplikaciją, kuri leistų pridėti vaisius, daržoves, indus (peiliai, šakutes ir t.t.).
+Reikalavimai:
+1. Vaisiai, Indai, Daržovės yra skirtingų tipų objektai su atskirais kontroleriais jiems.
+2. Kiekvienas objektas turi turėti bent Id ir pavadinimą (name).
+3. Galimi veiksmai: Pridėti daržovę, ištrinti, gauti visas, gauti pagal Id, pakeisti pavadinimą.
+4. Tai turi būti ištęstuota Postman bibliotekos pagalba
+5. Turi būti išnaudoti Get, Post, Put, Delete Http metodų tipai.
