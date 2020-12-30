@@ -1,0 +1,10 @@
+Sql Namų darbai: Paruošti txt failą su komandomis:
+
+1. Instaliuoti Mssql savo kompiutery (turėtų veikti ir ant Mac)
+2. Sukurti lentelių schemas "parduotuvei kuri leistų pridėti vaisius, daržoves, indus (peiliai, šakutes ir t.t.)." 
+Turi buti bent po vieną lentelę parduotuvei ir Parduodamui objektui.
+3. Parduodamas objektas turi tureti "foreign key" į parduotuvę, kuriai priklauso. Parduotuvių gali būtų keletas.
+4. Turi būti Insert komandos, kurios prideda testinius duomenis.
+5. Turi būti viena Delete komanda, kuri kažką ištrina, bei Update komanda, kuri kažką updeitina.
+6. Turi būti Select komanda, kuri padaro Join tarp lenteliu ir išima prekių duomenis su priklausančiais produktais.
+7. Scriptai turi veikti nukopijavus iš failo į Sql Server be jokių papildomų reikalavimų.
