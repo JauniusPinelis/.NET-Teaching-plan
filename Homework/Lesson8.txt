@@ -1,0 +1,10 @@
+Labai paprasta užduotis:
+
+Pakeisti Lesson6 užduotį, kad duomenys būtų išsaugomi duomenų bazėje.
+
+Reikalavimai:
+1. Naudoti Mssql duomenų bazę.
+2. Galima naudoti SqlConnection, Dapper, Entity framework Core. Patarčiau SqlConnection + Dapper, nebent pažįstat EntityFramework.
+3. Programos paleidimo metu turėtų būti patikrinimas ar duomenų bazėje egzistuoja lentelės ir sukurti jei jų nėra.
+4. ConnectionString turi būtų laikomas appsettings.json
+5. Restartavus programą, informacija turi nepasikeisti (paimti iš duomenų bazės)
