@@ -1,0 +1,5 @@
+Patobulinti paskutinį namų darbą su Async metodais.
+
+Reikalavimai:
+1. Visi Api methodai turėtų būti async.
+2. Panaudoti ToListAsync, SaveChangeAsync applikacijoje.
