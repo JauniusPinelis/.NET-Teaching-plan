@@ -1,21 +1,31 @@
-Create a Revolut-like banking application:
+Create a Revolut-like virtual bank application:
 
-Possible features
-1. Registration.
-2. Authentication (can be without proper security, I will not pernaltise for this)
-3. Logout
-4. Invite friends?
-3. Top-up (just make it simple, enter the sum, currency and top up)
-4. Send Money to others, add description to sending, categories.
-5. Request Money from others.
-6. Reporting of sending, request.
-4. Add Reporting and Search feature which allows
-7. Virtual Cards feature, be able to create new ones, freeze cards,
-6. Make sure, that several users should be able to use the application at the same time.
-7. Invest feature with simulation.
-8. Invest into stocks/bitcoin, Randomize the stock changes.
-9. Write and Cover your app with tests.
-10. Setup continious integration.
-11. Update your name, date of birth, profile picture.
-12. Donation feature.
-13. Quick loans feature.
+Possible features: 
+
+Be creative, you can implement anything you want. Below just possible suggestions.
+
+- Top-up (just make it simple, enter the sum, currency and top up)
+- Send Money to others, add description to sending, categories.
+- Be able to buy something (just simulate this by specifying amount, currency, recipients)
+- Request Money from others.
+- Reporting, Summary of sending, requests, buying.
+- Add Reporting and Search feature
+
+- Update your name, date of birth, profile picture.
+
+- Virtual Cards feature, be able to create new ones, freeze cards,
+
+- Invest feature with simulation.
+- Invest into stocks/bitcoin, Randomize the stock changes.
+- Invest summary
+
+- Write and Cover your app with tests.
+- Setup continious integration.
+- Donation feature.
+- Quick loans feature.
+
+- Registration.
+- Authentication (can be without proper security, I will not pernaltise for this)
+- Logout
+- Make sure, that several users should be able to use the application at the same time.
+- Invite friends? Send Email
