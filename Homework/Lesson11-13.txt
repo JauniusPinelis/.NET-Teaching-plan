@@ -28,4 +28,6 @@ Be creative, you can implement anything you want. Below just possible suggestion
 - Authentication (can be without proper security, I will not pernaltise for this)
 - Logout
 - Make sure, that several users should be able to use the application at the same time.
-- Invite friends? Send Email
+- Invite friends? Send Emails
+
+- Hosting it.

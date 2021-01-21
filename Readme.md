@@ -476,4 +476,42 @@
     
     .NET Framework - https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework
     Odata API - https://www.odata.org/
+
+## Week 10: Microservices
+
+### Lesson 1
+
+#### Aim
+
+    1. Microservices vs Monolith Project structure
+    2. Docker and Docker-compose technologies
+    3. Packaging applications and dependencies (Mssql) into runnable Containers.
+
+#### Homework/Project
+
+    Main: Host you application with Docker on Heroku.
+
+### Lesson 2
+
+#### Aim
+
+    1. Events in C#, Producer/Consumer patterns
+    2. Messaging technologies in Rabbitmq,
+    3. Event Sourcing.
+
+#### Homework/Project
+
+    Main: Create 2 services which use RabbitMq
+
+### Lesson 3
+
+#### Aim
+
+   1. Wrapping microservices with Ocelot Api Gateway.
+
+#### Homework/Project
+
+   Main: Dockerize Ocelot Api and employ it with microservices developed earlier. 
+
+
  
