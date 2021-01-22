@@ -507,11 +507,11 @@
 
 #### Aim
 
-   1. Wrapping microservices with Ocelot Api Gateway.
+    1. Wrapping microservices with Ocelot Api Gateway.
 
 #### Homework/Project
 
-   Main: Dockerize Ocelot Api and employ it with microservices developed earlier. 
+    Main: Dockerize Ocelot Api and employ it with microservices developed earlier. 
 
 
  
