@@ -1,0 +1,5 @@
+Sukurkite Consoline aplikaciją kuri atlieka matematinius veiksmus
+Jei įrašote "1 * 5" turėtų gražinti 5 ir pns.
+Galimi įrašai: "2 / 2", "2 + 145" , "0 - 13 "
+
+Papildomai: "-2 + 4", " 4 / (-5)"
