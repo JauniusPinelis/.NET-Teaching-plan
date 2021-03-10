@@ -12,3 +12,16 @@
     7. Strings
     8. Parsing.
     9. While loop
+
+### Lesson2
+
+    1. Objected oriented programming 
+    2. Class and object/ Contructor chaining
+    3. Methods/ void/ returns
+    4. Inheritance
+    5. Static Helpers.
+    6. Virtual / override
+    7. public / Private / Protected
+    8. Try/Catch
+    9. Comments
+    10. Homework
