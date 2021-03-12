@@ -25,3 +25,18 @@
     8. Try/Catch
     9. Comments
     10. Homework
+
+### Lesson3
+
+    1. Visual Studio update 
+    2. .NET framework /.NET core 3.1/ .NET 5 vs .NETstandard
+    3. JsonPlaceholder introduction.
+    4. Json vs html.
+    5. Rest api
+    6. HttpClient
+    7. HttpGet
+    8. Foreach vs Linq
+    9. HttpPost
+    10. Web Scraping
+    11. Homework.
+    12. Extra Seb task
