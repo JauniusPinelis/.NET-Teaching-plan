@@ -38,5 +38,6 @@
     8. Foreach vs Linq
     9. HttpPost
     10. Web Scraping
+    11. ScrapySharp
     11. Homework.
     12. Extra Seb task
