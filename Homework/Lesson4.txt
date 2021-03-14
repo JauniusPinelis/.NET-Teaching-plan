@@ -1,10 +1,5 @@
-This lesson was about interfaces, services, dependency injection, basic SOLID principles:
-
-The homework is to update 'The shop' application done in lesson2.txt with the concepts explained in :
-1. Apply Services principle and separate console printing and shop operations into separate services.
-2. In Services constructor there should be no 'new' word, interfaces of services should be used, 
-and they should be create(injected) in main method.
-
-EXtra: Add extra service which reads input from a file (like 'list', 'buy', etc) and prints output into separate.
-This should be exchangable with ConsolePrinter (use the same interface).
+Create ASP.NET Registration form:
+1. It should register for Name, Surname, Age and Address.
+2. Validation should check that none of those fields are empty and age is moree than 18 (use attributes)
+3. After Registration you should be redirected to the page where the registration details should be displayed as a table.
 

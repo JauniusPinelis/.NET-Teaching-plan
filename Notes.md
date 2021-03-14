@@ -41,3 +41,25 @@
     11. ScrapySharp
     11. Homework.
     12. Extra Seb task
+
+### Lesson 4
+
+    1. ASP.NET
+    2. Startup
+    3. Layout.cshtml Routing
+    4. Controllers
+    5. Views
+    6. Models
+    7. Razor syntax
+    8. @If/Foreach in Razor
+    9. Table results 
+    10. Creating a form.
+    11. Attributes + validating
+
+### Lesson 5
+
+    0. Controller being recreated on every request
+    1. Services/Calculation Service
+    2. Dependency injection.
+    
+    3. Storing Data in memory
