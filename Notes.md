@@ -58,8 +58,11 @@
 
 ### Lesson 5
 
-    0. Controller being recreated on every request
-    1. Services/Calculation Service
-    2. Dependency injection.
-    
-    3. Storing Data in memory
+    0. Interface and Services.
+    1. IPrinter
+    2. Console, FilePrinter.
+    3. Registering the uses in main method
+    4. REST API.
+    5. GET, GET by Id, POST, Delete
+    6. Controllers gets created on request.
+    7. Storing the data in memory.
