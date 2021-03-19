@@ -66,3 +66,17 @@
     5. GET, GET by Id, POST, Delete
     6. Controllers gets created on request.
     7. Storing the data in memory.
+
+### Lesson 6
+
+    0. Mssql
+    1. Databases
+    1. Schema, Tables, Columns
+    2. Creating new tables, droping them
+    3. Insert rows, updating them, deleting them
+    4. Primary Keys, Foreign Key constrains.
+    5. Indexes
+    6. Dapper
+    7. Ef Core
+
+
