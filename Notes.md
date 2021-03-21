@@ -79,4 +79,15 @@
     6. Dapper
     7. Ef Core
 
+### Lesson
+    0. Ef core add/delete vs SaveChanges
+    1. SQL server inspecting queries
+    2. ToList
+    3. async demo
+    4. Should AddAsync/SaveChangesAsync
+    5. ToListAsync();
+    6. Async Task<>
+    7. Repository patern.
+    8. Generic Repository.
+
 
