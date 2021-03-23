@@ -79,7 +79,8 @@
     6. Dapper
     7. Ef Core
 
-### Lesson
+### Lesson 7
+
     0. Ef core add/delete vs SaveChanges
     1. SQL server inspecting queries
     2. ToList
@@ -89,5 +90,13 @@
     6. Async Task<>
     7. Repository patern.
     8. Generic Repository.
+    9. Fluent Assertions
 
+### Lesson 8
 
+    0. Updating Controller to be Async (Async continued)
+    1. Repository pattern
+    2. Abstract Repository
+    3. Service pattern
+    4. Abstract Controller pattern
+    5. InMemory database.
