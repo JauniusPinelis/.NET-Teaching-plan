@@ -99,4 +99,15 @@
     2. Abstract Repository
     3. Service pattern
     4. Abstract Controller pattern
-    5. InMemory database.
+
+### Lesson 9
+
+    0. Unit tests
+    1. XUnit
+    2. Fluent Assertions
+    3. Services
+    4. Testing Helper methods
+    5. Dependencies
+    6. Interfaces
+    7. Mocking
+    8. Testing with mocked interfaces
