@@ -108,6 +108,14 @@
     3. Services
     4. Testing Helper methods
     5. Dependencies
-    6. Interfaces
-    7. Mocking
-    8. Testing with mocked interfaces
+    6. InMemory DB
+
+### Lesson 10
+
+    1. Interfaces
+    2. Mocking
+    3. Testing with mocked interfaces
+    4. Integration tests
+    5. Customize WebApplicationFactory
+    6. Xunit Theories
+    7. AutoFixture
