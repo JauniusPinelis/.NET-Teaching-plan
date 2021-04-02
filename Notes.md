@@ -120,6 +120,15 @@
     2. Mocking
     3. Testing with mocked interfaces
     4. Integration tests
-    5. Customize WebApplicationFactory
     6. Xunit Theories
     7. AutoFixture
+
+### Lesson 12
+
+    1. Searching for jobs.
+    2. Internships, academies
+    3. Testing continued
+    4. Customize WebApplicationFactory
+    5. AutoFixture
+    6. MultiProject structure, ClassLibraries
+    7. Domain Driven Design
