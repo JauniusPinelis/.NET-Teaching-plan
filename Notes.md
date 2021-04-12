@@ -132,3 +132,19 @@
     5. AutoFixture
     6. MultiProject structure, ClassLibraries
     7. Domain Driven Design
+
+### Lesson 13
+
+    1. Angular Intro
+
+### Lesson 14
+
+    2. Clean coding and etc.
+
+### Lesson
+
+    1. Angular continued.
+    2. Services.
+    3. Dependency Injection
+    4. Connecting Angular with .NET core
+    5. CORS issue.
