@@ -141,10 +141,24 @@
 
     2. Clean coding and etc.
 
-### Lesson
+### Lesson 15
 
     1. Angular continued.
     2. Services.
     3. Dependency Injection
     4. Connecting Angular with .NET core
     5. CORS issue.
+
+### Lesson 16
+    1. Complexity of Authentication
+    2. JWT
+    3. Middleware
+    4. Angular authentication
+    5. Microsoft Identity
+    6. Visual Studio Default Authentication Templates
+    7. Identity Server
+
+    https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api
+    https://github.com/cornflourblue/angular-8-jwt-authentication-example
+    https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial
+    https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
