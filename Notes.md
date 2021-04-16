@@ -131,15 +131,19 @@
     4. Customize WebApplicationFactory
     5. AutoFixture
     6. MultiProject structure, ClassLibraries
-    7. Domain Driven Design
 
 ### Lesson 13
 
-    1. Angular Intro
+    1. Angular Intro + Structure
+    2. Typescript
+    3. Node.js + NPM
+    4. Components
+    5. Services.
 
 ### Lesson 14
 
-    2. Clean coding and etc.
+    1. Clean Architecture.
+    2. Domain Driven Design
 
 ### Lesson 15
 
@@ -150,6 +154,7 @@
     5. CORS issue.
 
 ### Lesson 16
+
     1. Complexity of Authentication
     2. JWT
     3. Middleware
