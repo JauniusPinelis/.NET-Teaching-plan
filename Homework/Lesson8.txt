@@ -9,3 +9,5 @@ Reikalavimai:
 4. ConnectionString turi būtų laikomas appsettings.json
 5. Restartavus programą, informacija turi nepasikeisti (paimti iš duomenų bazės)
 
+Rekomendacijos: naudokite EF Core
+

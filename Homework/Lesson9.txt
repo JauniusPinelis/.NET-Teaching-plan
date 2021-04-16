@@ -1,6 +1,6 @@
 Ignitis task
 
-Patobulinti paskutinį namų darbą su Async metodais.
+Patobulinti paskutinį namų darbą ShopAPI su Async metodais.
 
 Reikalavimai:
 1. Visi Api methodai turėtų būti async.

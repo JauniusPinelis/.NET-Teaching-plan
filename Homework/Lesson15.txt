@@ -1,1 +1,1 @@
-Add Authentication to your shop application (Angular + backend)
+Add Authentication to your shop application using JWT and HttpInterceptor (Angular + backend)

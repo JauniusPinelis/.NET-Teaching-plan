@@ -1,1 +1,1 @@
-Connecting Angular with Shop back-end
+Connecting Angular front-end with Shop back-end application
