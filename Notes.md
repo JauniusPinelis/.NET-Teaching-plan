@@ -167,3 +167,21 @@
     https://github.com/cornflourblue/angular-8-jwt-authentication-example
     https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial
     https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+
+### Lesson 17
+
+    1. Azure ecosystem.
+    2. Dev/Azure Dev.Azure.com
+    3. Scrum
+    4. Azure free trial.
+    5. Repos/Pipelines.
+    6. Boards
+    7. Portal.Azure.com
+    8. Suscriptions
+    9. App Service
+    10. Publish
+    11. SQL Databases
+    12. Angular deployment
+    13. File Storage and Static apps
+
+https://medium.com/@harrish/static-hosting-angular-project-in-azure-blob-storage-with-azure-devops-integration-ce73bd6a51b9

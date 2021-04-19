@@ -1,0 +1,8 @@
+1. Create Azure Free Trial
+2. Publish an API to Azure app storage.
+3. Connect to Azure SQL Database,
+4. Deploy Angular app to Azure web apps.
+
+Optional:
+1. Connect your Application with Azure Db and publish it.
+2. Play with Azure pipelines and try connecting it to deployment (Continoius delivery)
