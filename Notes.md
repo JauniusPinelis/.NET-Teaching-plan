@@ -185,3 +185,19 @@
     13. File Storage and Static apps
 
 https://medium.com/@harrish/static-hosting-angular-project-in-azure-blob-storage-with-azure-devops-integration-ce73bd6a51b9
+
+### Lesson 18
+
+    1. SignalR technology
+    2. WebSockets.
+    3. WCF
+
+https://docs.microsoft.com/en-gb/aspnet/core/tutorials/signalr?tabs=visual-studio&view=aspnetcore-5.0
+http://www.lb.lt/webservices/ExchangeRates/ExchangeRates.asmx?op=getExchangeRatesByDate
+
+### Lesson 19
+
+    1. Azure logs
+    2. Web application with SQL deployment.
+
+https://ardalis.com/configuring-logging-in-azure-app-services/
