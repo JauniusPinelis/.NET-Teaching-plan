@@ -199,5 +199,21 @@ http://www.lb.lt/webservices/ExchangeRates/ExchangeRates.asmx?op=getExchangeRate
 
     1. Azure logs
     2. Web application with SQL deployment.
+    3. CQRS and MediatR
+    4. Clean Architecture
 
 https://ardalis.com/configuring-logging-in-azure-app-services/
+https://github.com/jasontaylordev/CleanArchitecture
+
+### Lesson 20
+
+    1. Gilded rose coding.
+
+### Lesson 21
+
+    0. Api analysis and questions
+    1. Clean Architecture and Domain Driven Design
+    2. Testing revisited.
+
+https://github.com/thangndbuca/Frederick-Domain-Design-Driven.git
+https://github.com/jasontaylordev/CleanArchitecture
