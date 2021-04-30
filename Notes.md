@@ -220,5 +220,6 @@ https://github.com/jasontaylordev/CleanArchitecture
 
 ### Lesson 22
 
-    1. Testing Revisited -> continuing with WebApplicationFactory and Specflow.
-    2. 
+    1. Testing Revisited -> continuing with WebApplicationFactory with InMemoryDatabase and real database.
+    2. Specflow introduction.
+    3. Fluent Validation benefits
