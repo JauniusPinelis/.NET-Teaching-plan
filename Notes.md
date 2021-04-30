@@ -217,3 +217,8 @@ https://github.com/jasontaylordev/CleanArchitecture
 
 https://github.com/thangndbuca/Frederick-Domain-Design-Driven.git
 https://github.com/jasontaylordev/CleanArchitecture
+
+### Lesson 22
+
+    1. Testing Revisited -> continuing with WebApplicationFactory and Specflow.
+    2. 
