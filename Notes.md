@@ -223,3 +223,32 @@ https://github.com/jasontaylordev/CleanArchitecture
     1. Testing Revisited -> continuing with WebApplicationFactory with InMemoryDatabase and real database.
     2. Specflow introduction.
     3. Fluent Validation benefits
+   
+### Lesson 23
+
+    1. Databases revision
+    2. Restoring backups
+    3. Taking a backup
+    4. Primary Keys
+    5. Functiona vs Stored Procedures
+    6. Indexes
+    7. Selects, Updates, Create
+    8. Composite Keys
+    9. If else in functions
+    10. Transactions (Tsql)
+    11. NoSql
+    12. MongoDb
+    13. MongoDb Atlas
+
+https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-5.0&tabs=visual-studio
+
+### Lesson 24
+
+    1. Enums
+    2. Func, Action, Delegates
+    3. Structures,
+    4. Generic functions
+    5. Reflection
+    6. Recursion
+    7. IDisposible
