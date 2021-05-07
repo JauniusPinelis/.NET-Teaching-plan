@@ -266,13 +266,10 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspn
     12. obj
     13. Reflection
     14. Recursion
-    15. Logging .net core SQL
-    16. IDisposible,
-    17. HttpClientFactory
-    18. Object == Object
-    19. Record types
-    20. nameof, typeof
-    21. Goto
 
 https://www.tutorialspoint.com/csharp/csharp_delegates.htm
 https://www.c-sharpcorner.com/article/func-action-predicate-delegates-in-c-sharp/
+
+### Lesson 26
+
+    1. 
