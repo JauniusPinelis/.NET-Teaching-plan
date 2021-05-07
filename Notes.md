@@ -245,10 +245,34 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspn
 
 ### Lesson 24
 
+    1. Docker Revisited
+    2. Microservices
+    3. Event Driven Architecture with RabbitMq
+    4. Api Gateway
+
+### Lesson 25
+
     1. Enums
-    2. Func, Action, Delegates
-    3. Structures,
-    4. Generic functions
-    5. Reflection
-    6. Recursion
-    7. IDisposible
+    2. Extensions Methods
+    3. ?.
+    4. ??
+    5. Helpers methods
+    6. Yield return;
+    7. Structs,
+    8. Delegates
+    9. Func, Action
+    10. reference vs value type
+    11. Generic functions
+    12. obj
+    13. Reflection
+    14. Recursion
+    15. Logging .net core SQL
+    16. IDisposible,
+    17. HttpClientFactory
+    18. Object == Object
+    19. Record types
+    20. nameof, typeof
+    21. Goto
+
+https://www.tutorialspoint.com/csharp/csharp_delegates.htm
+https://www.c-sharpcorner.com/article/func-action-predicate-delegates-in-c-sharp/
