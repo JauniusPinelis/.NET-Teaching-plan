@@ -272,4 +272,15 @@ https://www.c-sharpcorner.com/article/func-action-predicate-delegates-in-c-sharp
 
 ### Lesson 26
 
-    1. 
+    1. Scrum 
+    2. Azure boards
+    2. Working in teams
+    3. Pull-requests
+    4. Master/Main branch
+    5. Merge conficts
+    6. Branching strategies
+    7. IDisposable
+    8. Garbage collection
+    7. Dynamic Linq Expressions.
+    8. Redis cache with Docker.
+    9. Logging sql queries
